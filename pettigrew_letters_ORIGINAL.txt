@@ -1,0 +1,1911 @@
+Pettigrew papers from the Beinecke Rare Book and Manuscript Library 
+Series OSB MSS 113
+
+Transcribed by Gabriel Moshenska (gmoshenska@yahoo.co.uk) and released under a CC-By license. This data is further described in the following data paper:
+Moshenska, G. 2012. Selected Correspondence from the papers of Thomas Pettigrew (1791-1865), Surgeon and Antiquary. Journal of Open Archaeology Data 1(2), DOI: http://dx.doi.org/10.5334/4f913ca0cbb89
+
+Letters are listed by location (box, folder) and are arranged alphabetically by writer.  All letters are addressed to Thomas Joseph Pettigrew (hereafter TJP).  
+
+For further details see collection catalogue: http://drs.library.yale.edu:8083/fedora/get/beinecke:pettis1/PDF
+
+
+
+List of letters:
+
+Box 1, folder 10, William Francis Ainsworth to TJP, 17 December 1845
+Box 1, folder 12, John Yonge Akerman to TJP, 13 November 1850
+Box 1, folder 12, John Yonge Akerman to TJP, 7 March 1857
+Box 1, folder 16, Thomas Amyot to TJP, 23 March 18??
+Box 1, folder 16, Thomas Amyot to TJP, 20 August 18??
+Box 1, folder 16, Thomas Amyot to TJP, n.d.
+Box 1, folder 16, Thomas Amyot to TJP, 24 August 18??
+Box 1, folder 20, Francis Arundale to TJP, n.d.
+Box 1, folder 27, Robert John Eden Auckland to TJP, 20 June 18??
+Box 1, folder 28, William Ayrton to TJP, 1 February 1827
+Box 1, folder 29, Benjamin Guy Babbington to TJP, 10 June 18??
+Box 1, folder 31, W Baird to TJP, 22 May 18??
+Box 1, folder 33, Charles Baring, Bishop of Durham to TJP, n.d.
+Box 1, folder 37, Thomas Bateman to TJP, 4 July 1850
+Box 1, folder 37, Thomas Bateman to TJP, 18 January 1851
+Box 1, folder 37, Thomas Bateman to TJP, 29 June 1852
+Box 1, folder 39, William Beattie to TJP, 17 June 1829
+Box 1, folder 51, Sir William Betham to TJP, 1 June 1826
+Box 1, folder 51, Sir William Betham to TJP, 29 July 1846
+Box 2, folder 55, William Henry Black to TJP, 28 February 1849
+Box 2, folder 62, Joseph Bonomi to TJP, 12 July 1845
+Box 2, folder 62, Joseph Bonomi to TJP, 26 February 1857
+Box 2, folder 65, Sir William Boyd to TJP, 29 July 18??
+Box 2, folder 86, J. Collingwood Bruce to TJP, 3 June 1850
+Box 2, folder 86, J. Collingwood Bruce to TJP, 18 September 1850
+Box 2, folder 89, Thomas Burgon to TJP, 25 January 1834
+Box 2, folder 89, Thomas Burgon to TJP, 8 February 1837
+Box 2, folder 92, Gilbert Thomas Burnett to TJP, 8 March 1831
+Box 3, folder 104, Patrick Chalmers to TJP, 9 June 1850
+Box 3, folder 109, Henry Curtis Cherry to TJP, 23 August 1859
+Box 3, folder 114, Henry Christmas to TJP, 14 March 1855
+Box 3, folders 119, Prince Cimitile to TJP, n.d.
+Box 3, folder 120, William Reid Clancy to TJP, 29 October 1829
+Box 3, folder 131, Henry Clutterbuck to TJP, 8 June 1818
+Box 4, folder 135, John Payne Collier to TJP, 23 January 1855
+Box 4, folder 136, William Bengo Collyer to TJP, 29 September 1819
+Box 4, folder 142, Astley Cooper to TJP, 7 May 1819
+Box 4, folder 144, James Copeland to TJP, 28 February 1830
+Box 4, folder 148, Sir Michael Costa to TJP, n.d.
+Box 4, folder 157, Thomas Crofton Croker to TJP, 22 June 1844
+Box 4, folder 157, Thomas Crofton Croker to TJP, 11 September 1845
+Box 4, folder 158, George Cruikshank to TJP, 12 February 1855
+Box 4, folder 175, Duke of Devonshire to TJP, 14 July 1833
+Box 5, folder 202, Sir Henry Ellis to TJP, n.d.
+Box 5, folder 202, Sir Henry Ellis to TJP, 21 October 1830
+Box 5, folder 202, Sir Henry Ellis to TJP, n.d.
+Box 5, folder 202, Sir Henry Ellis to TJP, 22 January 1855
+Box 5, folder 212, Frederick William Fairholt to TJP, 29 May 1852
+Box 5, folder 223, William Stevenson Fitch to TJP, 3 September 1845
+Box 5, folder 227, Thomas Forester to TJP, n.d
+Box 5, folder 232, Henry Hall Gage to TJP, 15 August 1833
+Box 5, folder 241, Archibald Acheson, 2nd Earl of Gosford to TJP, 5 April 1833
+Box 6, folder 257, James Burton to TJP, 5 July 1833
+Box 6, folder 257, James Burton to TJP, n.d.
+Box 6, folder 257, James Burton to TJP, n.d.
+Box 6, folder 262, William Richard Hamilton to TJP, 7 February 1837
+Box 6, folder 262, William Richard Hamilton to TJP, 29 October 1841
+Box 6, folder 263, Thomas Hancock to TJP, 29 April 1842
+Box 6, folder 270, John Haslam to TJP, 25 January 1833
+Box 6, folder 270, John Haslam to TJP, 5 April 1832
+Box 6, folder 273, Caesar Henry Hawkins to TJP, n.d.
+Box 6, folder 274, Edward Hawkins to TJP, 20 December 1852
+Box 6, folder 275, Francis Hawkins to TJP, 27 August 18??
+Box 6, folder 275, Francis Hawkins to TJP, 23 March 1838
+Box 7, folder 309, Alfred John Kempe to TJP, 13 April 1846
+Box 7 folder 310, Robert Masters Kerrison to TJP, 5 February 1829
+Box 7 folder 310, Robert Masters Kerrison to TJP, 8 May 1833
+Box 7 folder 310, Robert Masters Kerrison to TJP, 31 August 1836
+Box 7, folder 317, Charles Dietrich Eberhard Konig to TJP
+Box 7, folder 326, William Elford Leach to TJP, 22 November 1817
+Box 7, folder 328, Dr John Lee to TJP, 14 June 1833
+Box 7, folder 328, Dr John Lee to TJP, 16 November 1833
+Box 7, folder 328, Dr John Lee to TJP, 15 April 1834
+Box 7, folder 328, Dr John Lee to TJP, 23 April 1838
+Box 7, folder 328, Dr John Lee to TJP, 20 May 1836
+Box 7, folder 328, Dr John Lee to TJP, 31 August 1837
+Box 7, folder 330, Samuel Lee to TJP, n.d.
+Box 7, folder 332, Conrad Leemans to TJP, January 1839
+Box 7, folder 332, Conrad Leemans to TJP, 26 January 1839
+Box 7, folder 332, Conrad Leemans to TJP, 18 September 1838
+Box 7, folder 332, Conrad Leemans to TJP, 17 November 1837
+Box 7, folder 332, Conrad Leemans to TJP, 22 March 1836
+Box 7, folder 333, Robert Lemon to TJP, n.d.
+Box 7, folder 342, William Linley to TJP, 2 May 18??
+Box 8, folder 374, Joseph Mayer to TJP, 3 October 1849
+Box 8, folder 378, Samuel Merriman to TJP, n.d.
+Box 8, folder 379, Sir Samuel Rush Meyrick to TJP, 15 July 1843
+Box 8, folder 379, Sir Samuel Rush Meyrick to TJP, 8 October 1843
+Box 8, folder 379, Sir Samuel Rush Meyrick to TJP, 30 June 1845
+Box 8, folder 379, Sir Samuel Rush Meyrick to TJP, 21 September 1846
+Box 8, folder 379, Sir Samuel Rush Meyrick to TJP, 20 May 1847
+Box 9, folder 389, William Muller to TJP, 15 September 1829
+Box 9, folder 392, George Augustus Frederick Fitzclarence, 1st Earl of Munster to TJP, 12 July 18??
+Box 9, folder 392, George Augustus Frederick Fitzclarence, 1st Earl of Munster to TJP, n.d.
+Box 9, folder 393, Thomas Murdoch to TJP, 19 June 1833
+Box 9, folder 399, John Newman to TJP, 24 June 1834
+Box 9, folder 405, Algernon Percy, 4th Duke of Northumberland to TJP, 21 March 1842
+Box 9, folder 411, Sir Gore Ouseley to TJP, 20 June 1833
+Box 9, folder 412, Sir Benjamin Fonseca Outram to TJP, 15 April 18??
+Box 9, folder 412, Sir Benjamin Fonseca Outram to TJP, 10 June 1833
+Box 9 folder 417, George Patten ARA to TJP, 1 April 1849
+Box 9, folder 421, John Penn to TJP, 9 May 1811
+Box 9, folder 431, Thomas Phillips to TJP, n.d.
+Box 9, folder 442, Beale Poste to TJP, 6 October 1847
+Box 9, folder 442, Beale Poste to TJP, 5 February 1848
+Box 9, folder 442, Beale Poste to TJP, 19 February 1849
+Box 9, folder 442, Beale Poste to TJP, 11 June 1849
+Box 9, folder 442, Beale Poste to TJP, 29 July 1850
+Box 9, folder 442, Beale Poste to TJP, 4 August 1850
+Box 10, folder 454, Miguel del Riego to TJP, 3 April 1826
+Box 10, folder 458, David Roberts to TJP, 14 January 1846
+Box 10, folder 458, David Roberts to TJP, 27 May 1848
+Box 10, folder 496, Charles Roach Smith to TJP, 15 July 1845
+Box 10, folder 496, Charles Roach Smith to TJP, 8 April 1844
+Box 10, folder 498, William Henry Smyth to TJP, 29 January 1849
+Box 11, folder 504, Edward Adolphus Seymour, 11th Duke of Somerset to TJP, 27 November 1830
+Box 11, folder 510, Ephraim George Squier to TJP, 11 December 1857
+Box 11, folder 514, Thomas Streatfield to TJP, 8 September 1844
+Box 11, folder 523, Sir Herbert Taylor to TJP, 25 April 1833
+Box 11, folder 526, Thomas Taylor to TJP, n.d.
+Box 11, folder 528, Honoratus Leigh Thomas to TJP, May 1834
+Box 11, folder 529, James Thompson to TJP, 30 November 1850
+Box 11, folder 530, William John Thoms to TJP, 27 November 18??
+Box 11, folder 537, Robert Torrens to TJP, 4 November 1824
+Box 11, folder 537, Robert Torrens to TJP, 31 May 1825
+Box 11, folder 542, Martin Farquhar Tupper to TJP, 2 September 1845
+Box 12, folder 553, Richard Valpy to Mrs E. Pettigrew, 13 March 1826
+Box 12, folder 555, Lewis Vulliamy to TJP, 1 July 18??
+Box 12, folder 562, James Wardrop to TJP, n.d.
+Box 12, folder 569, Charles Wellbeloved to TJP, 28 February 1845
+Box 12, folder 569, Charles Wellbeloved to TJP, 4 August 1852
+Box 13, folder 591, John Williams to TJP, 23 October 1851
+Box 13, folder 594, Sir Daniel Wilson to TJP, 12 July 1850
+Box 13, folder 597, George Woodfall to TJP, 28 April 1830
+Box 13, folder 598, J. Word to TJP, 17 November 1836
+Box 13, folder 599, Francis Wrangham to TJP. n.d.
+Box 13, folder 601, Thomas Wright to TJP, 1 August 1845
+Box 13, folder 601, Thomas Wright to TJP, n.d.
+Box 13, folder 601, Thomas Wright to TJP, n.d.
+Box 13, folder 601, Thomas Wright to TJP, n.d.
+Box 13, folder 601, Thomas Wright to TJP, n.d.
+Box 13, folder 601, Thomas Wright to TJP, 24 August 18??
+Box 13, folder 601, Thomas Wright to TJP, n.d.
+Box 13, folder 607, William Youatt to TJP, May 1835
+Box 13, folder 609, G Young to TJP, 18 June 1833
+
+
+
+Box 1, folder 10
+William Francis Ainsworth to TJP
+
+
+My Dear Sir, 
+I only received your favour of the 16th late last night, on my return from the Syro-Egyptian, or I would have answered before.  
+I shall be very happy to meet Mr Wright at the Archaeological meeting this evening, the meeting of which society indeed, I have attended on the last occasion.  
+Believe me, 
+My dear sir, 
+Yours very sincerely, 
+W. Francis Ainsworth
+Wednesday Morn
+Dec 17th 1845
+
+
+Box 1, folder 12
+John Yonge Akerman to TJP
+
+
+My dear sir, 
+I enclose you the copy of the letter of Nelson of which I spoke.  You may rest assured of its authenticity.
+Yours faithfully, 
+J.Y. Akerman
+S.A.
+13. Nov. 1850
+
+
+My dear sir, 
+I send you the required memorandum of the Coins, which I think you will find correct.  The Emperors are not in chronological order, but as I have written on one side of the paper, you can chop it up and arrange it easily.
+Very truly yours, 
+J.Y. Akerman
+S.A. 
+7. Mar. 1857.
+
+
+Box 1, folder 16
+Thomas Amyot (proposed TJP as FSA)
+
+
+Athenaeum, Sunday 
+23rd March
+My dear Pettigrew,
+On coming here, I have found your kind Note with its printed inclosure.  I thank you for both, but I should have been glad to have found you here in person.  I cannot call on you today, but I am desirous to assure you that I fully agree with our friend Mr Henry Ellis, that he & I ought not to mix ourselves up with either of the belligerent parties.  I am constitutionally a man of peace, and if I could assist in restoring that blessing, I would carry an olive branch to each of the Rival Camps, if I did not fear I should be drummed out of both.  I have great respect for Lord Albert Conyngham, and for many of your colleagues, as I also have for many of the staff on the other side.  I certainly shall not join them, but I am desirous that my name should be withdrawn from your committee, highly respectable, as it is, in its composition.  I sincerely hope that archaeological ??? will not interfere with the comforts of our antiquarian club, where I trust the word "archaeology" will not be even whispered.  "Oh no, we never mention it!", shall at least be my motto there.
+With the kindest regard, 
+I remain always, 
+My dear Pettigrew, 
+Yours most sincerely, 
+Thomas Amyot
+T.J. Pettigrew Esq.
+
+
+Atheneum, Tuesday
+20 August
+My dear Pettigrew,
+"Yes", if it must be so.  But I really think you should not stick my name in so prominent a position.  I shall not be able to prepare a Reading, nor probably be able to be in Canterbury more than one day, or two days at most.  Since there are others, Mr James for instance, who would better fill up the printer's blank with literary & historical name.  My [...] at Somerset House alone gives one anything like a pretence for accepting the elevation you propose.  I presume my learned colleague will prepare a paper on the Battle of Bosworth.  I cannot so further back than the Battle of Antiquaries, when the Besiegers were led on by Sir Harry Nicolas, while I endeavoured to defend the Citadel with our Household Trophy.
+Yours ever sincerely, 
+Thomas Amyot.
+
+
+James Street, 
+Monday ???
+My dear Pettigrew, 
+According to Caley's request, I send you the copy which I received by the two penny post of the Manifesto of the beaten Herschelites.  I am surprised you have not received a presentation copy from the author.  The tone is so temperate, & the whole publication so harmless, that I do not think any answer from you is at all called for.  Pray let me have it again at your leisure, that I may keep with the other controversial effusions occasioned by the Royal nomination.
+Yours ever sincerely, 
+Thomas Amyot
+I have just given an In-patients' letter to your protegee.  
+
+
+Athenauem 
+Tuesday 24th Augt
+My dear Pettigrew,
+Write me down an Egyptian.  If I can catch another, you shall book him too.  I hope when you set about filling your list, you will find "corn in Egypt".  Jon was much pleased with your lecture, but Harry was kept away by an engagement which I was not aware of.  
+Yours ever, 
+Thomas Amyot
+
+
+Box 1, folder 20
+Francis Arundale to TJP
+
+
+Dear sir, 
+Should you be able to attend a lecture I am about to deliver on "The Arts and Literature of Ancient Egypt" I should feel honored by your presence next Friday at the Royal Institution.
+I remain ...
+Yours...
+F. Arundale
+T. Pettigrew Esq.
+
+
+Box 1, folder 27
+Robert John Eden Auckland to TJP
+
+
+2 Grosvenor Crescent
+June 20
+Sir, 
+If my name will be of the slightest service as Patron of the Archaeological Society during its congress in Somersetshire, I shall be glad that it should be used.  Unfortunately I have never been able to afford time to archaeological pursuits, & have not the slightest acquaintance with them.
+I remain sir, 
+Yours faithfully, 
+Auckland Bath & Wells
+T.J. Pettigrew Esq.
+F.R.S.
+
+
+Box 1, folder 28
+William Ayrton to TJP
+
+
+James Street
+Feby. 1, 1827.
+My dear sir, 
+I do with all my heart congratulate you on the result of this evenings' ballot at the Royal Society, in which I felt exceedingly interested, not only on your own personal account, but as the cause of truth and justice against calumny and malice.  Your answers to your vulgar-minded assailants are most convincing, and, to my knowledge, [...] they acquired no corroborative proofs, but had they stood in need of any commentary, an election under circumstances so trying, must have removed every pre-existing doubt.   Your triumph is, in every way, most complete! - 
+[...] 
+W. Ayrton.
+T. Petttigrew Esq.
+
+
+Box 1, folder 29
+Benjamin Guy Babbington to TJP
+
+
+16 Aldermanbury 
+June 10th
+Dear Sir, 
+Your History of Mummies will I have no doubt be a very interesting and instructive work, and I shall be most happy to support its publication by subscribing my name for a copy.  
+Believe me dear sir, 
+Very truly yours, 
+BG Babington
+
+
+Box 1, folder 31
+W Baird to TJP
+
+
+May 22
+Dear Sir
+I shall have great pleasure in becoming a subscriber to your History of Mummies.  
+I am, dear sir, 
+Yours truly
+W Baird
+
+
+Box 1, folder 33
+Charles Baring, Bishop of Durham to TJP
+
+
+Dear Sir, 
+Will you come & dine here on Saturday next the 30th instant at ? past seven o'clock - my nephew Charles Murray, just arrived from Aegypt, dines here and I wish you to make his acquaintance - I need not say that I shall be happy to see you ...
+
+
+Box 1, folder 37
+Thomas Bateman to TJP  
+
+
+4th July 1850
+Dear Sir, 
+I must own that I was rather suspicious with regard to the Egyptian antiquity myself when I had compared the cartouches with three in a plate of the tablet of Abydos and some other authorities which I possess, but when I examined the object itself I could see not the slightest indications of [...] excepting that the figure of Horus was evidently added.  It is instead a most wonderful imitation it [...] I should have bought it without hesitation had I seen it for sale, though generally very cautious in examining antiquities previous to purchase.
+What to send you to read at the congress I really do not know.  Barrow opening of late has been [...] for instance fifteen [...] openings with only one find which was a set of jet beads similar to those engraved in my book [...]
+
+
+Mulgrave 18th Jany 
+1851
+My dear sir
+If I am spared till the next congress it will be a source of pleasure to me to contribute to its success in any way in my power consequently it will be very gratifying to me to exhibit my Celtic & other antiquities to the members of the association if they thought it worth while to make the excursion from Derby, of course you shall have Programmes sufficiently early to make [...] preparation at the time - 
+There are several objects of interest in this neighbourhood which might be visited in a day in needful, for instance [...] church, Bakewell Church [...]
+
+
+Mulgrave 29th June 1852
+My dear sir,
+I have no acquaintance with the Nottinghamshire tumuli excepting in as far as has been previously communicated to the journal - I am therefore at a loss to know how to write the paper that you wish for the Newark Congress - but if you can suggest anything else of which I have some knowledge it will give me pleasure to [...]
+
+
+Box 1, folder 39
+William Beattie to TJP
+
+
+Rose Villa Hampstead
+June 17th 1829
+My Dear Sir, 
+I extremely regret that circumstances have occurred to detain me at home this eve, & to deprive me of the pleasure & advantage I had anticipated at your Conversazione - this note will probably be handed to you by Mr Hannay, a gentleman whom I had last year the pleasure of presenting to you, & who was to have accompanied me this eveng. - I have advised him to present himself [...] well assured that you will not consider it a liberty - I need hardly add that Mr Hannay is a gentleman of family, an Oxonian, & a man who has travelled much.
+With great esteem I remain, 
+My dear sir, 
+Your obliged faithful
+William Beattie
+T. Pettigrew Esq.
+&c &c &c
+
+
+Box 1, folder 51
+Sir William Betham to TJP
+
+
+46 Pall Mall
+1 June 1826
+My Dear Sir,
+I have this instant received the Armenian Testament, I promised to shew it to a friend or I would send it you this day.
+Yours faithfully
+Betham
+T. Pettigrew Esq.
+
+
+Dublin 29 July 1846
+My Dear Pettigrew
+I have had a severe and unremitting diarrhea upon me ever since I returned, which commenced at Paris and remained until yesterday, which has greatly reduced me and rendered me very weak, and I much fear will prevent my being at Gloucester on Monday as I most anxiously wished to be.  My Medicus says I ought not to attempt it,  but if I get [...] I shall not be influenced much by that, as I think I can judge of my own capabilities better than any one, and if I feel myself equal to the undertaking you will see me as sure as the Angel of Darkness looks over Lincoln.  What this saying means is a good subject for an Archaeological Paper - does it infer that he takes no notice of that famous city?  That he overlooks it?  That he oversees with particular care?  That he hovers over it?  That he does not look into it?  Many other questions of the same order and category may be propounded, which able antiquaries may discuss if not puzzle themselves and the world with.  For my part I think his majesty looks into most large cities and smiles with ineffable delight on what he sees in them.  There can be no doubt but he was delighted at Gloucester when the glorious Protestant martyrs were burned there and will probably be present next week to say something in favour of medieval or primeval antiquities.  He is now at York but the Rail Roads will transport him with delight in a very short period of time if he require such assistance.  No doubt he prevented Mr Way from attending at York and was devilish glad to accomplish so great an object.  The ominous absence of the Secretary of the Institute suggests the idea of a new split, is he contriving a new society?  What will he call it?  I do not know?  Can you say?  This is a letter of queries but the worst for me is query if I shall not be prevented from attending?  I hope not.  Ever truly yours, 
+W. Betham
+Sir Thomas Deane is here and says he cannot be at Gloucester either.  What a vagabond.
+
+
+Box 2, folder 55
+William Henry Black to TJP
+
+
+Mill Yard 
+Goodman's Fields
+28/2/49
+My dear sir, 
+My visitor Mrs Slater informs me that a mummy is to be opened tomorrow evening at the Royal Institn, & she is desirous of being present, with some of her family, on that occasion.  I have engagements elsewhere, as you may easily suppose from the struggle in which we are engaged in this Parish.  Can you oblige me by forwarding a ticket or tickets to Mrs S. whose address is enclosed?  
+
+
+Box 2, folder 62
+Joseph Bonomi to TJP
+
+
+July 12 45
+12 Cork St
+My dear sir
+I am sorry that the society to which I belong should be opposed to yours.  My old friend Wm Birch asked me to become honorary memory of the society to which he belonged not knowing or enquiring further I consented.  
+Much obliged to you for the information respecting the Lytho-drawing 
+I remain 
+My dear sir
+Very obediently yours
+Joseph Bonomi
+
+
+The Chronological Institute of London
+22 Hart Street Bloomsbury
+26 February 1857
+Sir, 
+You are requested to attend a special meeting of the council on Thursday next the 5th of March at 4.30 to receive and announce the titles of papers to be read at the Equinoctial meeting.
+Sir
+Your obedient servant
+Joseph Bonomi Secy.
+
+
+Box 2, folder 65
+Sir William Boyd to TJP
+
+
+My Dear Sir, 
+I have had the honour of receiving your polite note, with a copy of your valuable work; for which I beg that you will accept my best acknowledgements.  Your optimism regarding the respective merits of M. Champollion and Dr. Young shall meet with every attention.  As you have already greatly overpaid the value of my work even when completed, by the present of your beautiful book, I shall consider it a favour if you will permit me to put your name into my list of subscribers, with that of your friend Mr. Hudson Gurney.  I do not pretend to be disinterested in this, as I am aware that the respect with which your name is regarded as that of a profound and classical scholar, is likely to be of much advantage to my work.  
+I am with reselect and esteem 
+Yours truly
+W. Boyd
+18 Old Cavendish St
+July 29th
+T.J. Pettigrew Esq. &c &c.
+
+
+Box 2, folder 86
+J. Collingwood Bruce to TJP
+
+
+Newcastle upon Tyne June 3rd 1850
+My dear sir, 
+As the Congress is not held until my season of lecture expires I had made up my mind to deny myself the pleasure of being amongst you.  Your letter enquiring whether I am to be there has however induced me to relax in some measure my resolutions.  If you think I can be of use to you I could make arrangements for being a single day or so at the meeting.  My book on the Roman Wall is at present absorbing all my attention, but having before I turned to this subject investigated with some care the structure of the Norman Castle in England I could without much difficulty be prepared with a popular lecture on that subject.  On these occasions it is desirable to provide light matter for the uninitiated as well as deep disquisitions for the learned.  I should chiefly keep in view those who had not thought much when antiquities with the view of showing them its importance and interest as the handmaid of history.  You will perhaps let me know if this proposal meets your approbation.  
+I am dear sir
+Yours faithfully
+John Collingwood Bruce
+T.J. Pettigrew Esq
+London
+
+
+Newcastle upon Tyne
+Sepr. 18th 1850
+My dear sir, 
+I have been from home examining two of the secondary stations of the Wall which are least accessible and which I had not visited before.  My Manchester paper was very hastily written (owing to the pressure of my engagements) and of course never intended for publication.  It was meant as a sort of popular address for such an audience as we had at Chester last year.  Such as it is it is at your service if it be of any use.  May I particularly request that the paper or the proofs may be read over by some one who will rectify any errors which in my haste I may have made.  I have got the cuts from my printer now but I am sorry to say that having lent some of those you wish for to the editor of the Cambrian Arch. Journal the parcel was lost on its way back to me.  Those which I have I will send by to nights mail.
+I hope to get my book on the Wall out before Christmas, it was cost me a great deal of labour.  I am obliged to you for carrying the amount of my Congress ticket to my account subscription.
+I am my dear sir
+Yours faithfully
+John Collingwood Bruce
+T.J. Pettigrew Esq.
+London
+
+
+Box 2, folder 89
+Thomas Burgon to TJP 
+
+
+Dear sir, 
+I am very sorry I was from home when you favoured me with a call, and as I am always in the city all day, it is only in the morn or eve that I could hope to have the pleasure of seeing you except by appointment.
+If you will have the goodness to inform me at what hour of the day it would be most convenient for you to see me I shall have much pleasure in bringing you the leaden seals found in the mummy which I think you expressed a wish to notice in your work & we could then fix a day for my showing you anything else which I possess which might interest you.  
+I am dear sir
+Yours very truly
+Tho Burgon
+11 Brunswick Square
+Saturday eve
+25 Jan 1834
+
+
+My dear sir
+I must have appeared to you totally unworthy of your kindness & condescension, in having deferred for so many days, the acknowledgment of the favour conferred upon my by the ticket for your intended interesting lectures, but the fact is, that at the period of the receipt of your kind note, I was very unwell with the prevailing influenza, & on subsequent days my family all fell ill, one after the other, (including the servants) so that I have been nearly overwhelmed with anxiety as well as urgent business.  I beg very particularly to apologise for my unintended neglect and need not add, how much pleasure I shall fell in being able to attend your Course on the new & interesting subjects you have chosen, & shall not fail to continue my recommendation to all my antiquarian friends.
+Believe me 
+My dear sir, 
+Yours very sincerely, 
+Th Burgon
+11 Brunswick Square
+8th Feb 1837
+
+
+Box 2, folder 92
+Gilbert Thomas Burnett to TJP
+
+
+Mr Burnett presents his compts to Mr Pettigrew & with thanks for the card [...] he shall have much pleasure in being present at Mr P's conversazione.  Mr B would be much flattered should Mr P be inclined to waste an hour at the lectures St Georges Hospital, or be present at the M.B.S.
+85 Norton St
+8th March 1831
+
+
+Box 3, folder 104
+Patrick Chalmers to TJP
+
+
+2 King Street, St James' Sq
+9 June 1850
+Dear Sir, 
+It is stated in some newspapers that Ld. Londesboro is to open his house to a select party of antiquaries tomorrow morng.  I have not the honour of his lordships acquaintance and hardly know if I am right in asking if you can procure me a card of admission.  Should you have the very least hesitation, pray consider this note as not written.
+Yrs very faithfully, 
+Patrick Chalmers
+T.J. Pettigrew Esq
+
+
+Box 3, folder 109
+Henry Curtis Cherry to TJP
+
+
+Burghfield Rectory
+W. Reading
+23 August 1859
+Sir, 
+You have been misinformed, in regard to my having made any collections for a local history of Berks.  Some years ago, I undertook for my amusement and also with a view to publication, provided I was reimbursed all the necessary expenses, the genealogies of the County families founded on the visitations.  I found it was hopeless to imagine that I should be otherwise than very much out of pocket by giving my labour to the Public, and so, I have abandoned the pursuit.  A heavy domestic affliction has, for some time past, so thoroughly unnerved and dispririted me, that, beyond my ministerial duties, and providing for a very large family I have neither the time not the inclination for other matters.  I remain, sir, 
+Your obedt. Servant
+Hy. Curtis Cherry.
+T.J. Pettigrew Esq.
+
+
+Box 3, folder 114
+Henry Christmas to TJP
+
+
+30 Manor Street, Clapham
+March 14. 1855
+My dear sir, 
+I have greatly grieved to find that your note had not been forwarded to me from the Royal Society of Literature, I fear you have thought me very negligent.  
+I hasten to send you a ticket for the ladies which you can fill up as you please as to numbers.  
+I remain
+My dear sir
+Yours very faithfully
+Henry Christmas
+
+
+Box 3, folders 119
+Prince Cimitile to TJP
+
+
+Saturday 16
+My dear Pettigrew, 
+I have an opportunity to send to Mr Accilles a parcel with the Pus for the inoculation of the cow pox - if you have got it or if you can get it Mr. Accilles and myself will feel very much obliged to you - the person will leave England on Monday evening so it is necessary to have the parcel ready for Monday morning at the latest.  
+believe me yours truly
+Cimitile
+
+
+Box 3, folder 120
+William Reid Clancy to TJP
+
+
+29. Oct. 1829
+My dear sir, 
+[...] 
+I am unwilling to trespass upon your valuable time & thus write you this rambling note.  I wish I could see you at any hour in Bishopwearmouth that I might submit to your inspection my splendid and valuable apparatus for experimenting on healthy & diseased human blood. 
+Ever yours
+Most faithfully
+W. Reid Clanny
+
+
+Box 3, folder 131
+Henry Clutterbuck to TJP
+
+
+My dear sir, 
+I got your Note on Saturday too late to enable me to reply to it immediately, and my going out of town yesterday at an early hour precluded my seeing you.  
+The late proceedings at the society are indeed disgraceful.  The perfect confidence that every one who knows you must have in your honour & integrity, would make them repel with disdain such contemptible charges.  My connexion with the society being founded entirely & solely on the opinion I had gained of it through yourself, I should consider myself guilty of great injustice towards you did I not join heartily the numerous body of your friends in withdrawing myself a society that was not forward to discountenance such conduct, by every means in their power
+I am with great regard
+Yours most truly
+H Clutterbuck
+New Bridge Street
+June 8 1818
+T.J. Pettigrew Esq.
+
+
+Box 4, folder 135
+John Payne Collier to TJP
+
+
+Riverside 
+Maidenhead
+23 Jan 1855
+My dear sir, 
+Your daughter should not want a copy of "the Pain & Sorrow of Evil Marriage" if I had one to give her - not however that she might take warning by it.  
+The fact is that, some months ago, I could easily have complied with your wish, but I sold all my needless books at Sotheby's, and now my only copy of "the Pain" is the one I have had bound up with my incomplete set of the Percy Publn.  I have not one of the any of the later issues, since I ceased to be a member of the society.  I remain, 
+My dear sir, 
+Yours very faithfully, 
+J. Payne Collier.
+T.J. Pettigrew Esq.
+
+
+Box 4, folder 136
+William Bengo Collyer to TJP
+
+
+56 East Street, Brighton, Sept 29 1819.
+My dear Pettigrew, 
+It was with the most unfeigned sorrow that I learned from your letter of Saturday the afflicting loss which you have sustained.  It is one to which no consolation can be tendered in words of condolence; and such alleviations as can be derived from human sympathy, and the sincere participation of friendship, you are already assured you possess, so far as I am concerned; and into all those feelings Mrs. Collyer enters, with deep & lively interest, both as it respects yourself and Mrs. Pettigrew[...]
+
+
+Box 4, folder 142
+Astley Cooper to TJP
+
+
+My dear sir, 
+Being obliged to give the lecture in the evening you have had the kindness to invite me I am sorry it will not be in my power to have the honor of dining with you and with your illustrious and intelligent guest.
+I am 
+Yours very truly
+Astley Cooper
+New St May 7th 1819.
+
+
+Box 4, folder 144
+James Copeland to TJP
+
+
+My dear Pettigrew, 
+You will receive with this as particular an introduction to Annesley as I can give you.  As I should like to have a few minutes conversation with your son, in order to make him a little acquainted with Annesley's character, I wish you could either bring him here, or I will call upon you, for that purpose, when it may suit you.  If he likes he may be of some use to the young officer, as he has very great influence with those in power there and enjoys the finest medical reputation, especially as a successful practitioner in India.  
+If my letter to Annesley should be in any way the means of serving your son, I assure you that it will give me the most sincere gratification.  
+Believe me, dear Pettigrew, 
+Yours more sincerely, 
+James Copeland, 
+[...] 
+28th Feby. 1830.
+
+
+Box 4, folder 148
+Sir Michael Costa to TJP
+
+
+I hope you will excuse me my dear Pettigrew if I do not come to dinner because I am very much engaged to finish my Opera, but I shall be happy to spend the evening with you - my brother accepts with great pleasure your kind invitation.  Pray remember me to Mrs. Pettigrew & believe me in haste 
+Yours very truly
+M Costa
+Thursday evening
+
+
+Box 4, folder 157
+Thomas Crofton Croker to TJP
+
+
+Rosamund's Bower
+Fulham
+22nd June 1844
+My dear Sir, 
+I copy Mr Smith's letter which coupled with a leading article in the time-serving Times, you will at once perceive neither in tone nor temper is likely to advance the interests of the British Archaeological Society.  I have written to Mr Way my sentiments upon this matter, fully - especially, as I think I proposed Mr Sidney Herbert and Captain Brandreth as members of the association.  Pray let us discuss this Humphrey barrow question fully on Wednesday, and then we shall establish a barometer by which the new society can be understood.  Forgive this pun, it is not mine, but Hook's and does not refer to Greenwich Park but to Sir John Barrow and the Quarterly Review.  
+Very truly yours, 
+T. Crofton Croker
+
+
+British Archaeological Association 
+Rosamund's Bower
+Fulham
+11th September 1845
+My dear sir, 
+I have written to Hincks urging him to forward his paper without loss of time and stating that we should be happy to illustrate it &c.
+I have also written to the Revd. Mr Phelps as follows, dating it from York [...]
+"I have submitted your communication to me to the Central Committee of the B.A.A.  They regret that you should have made so erroneous a statement as that therein contained, and desire me to acquaint you they have ordered your name to be removed from the list of members."  [...] 
+Today I have letters from Sir Thomas Deane, and from Sir William Chatterton desiring their names to be added to the list of subscribers for the Winchester Vol. which I will thank you to do.  
+Chatterton says - "One word to acknowledge the receipt of the Circular from the "Real, original Archaeological Association" N.B. no connection with any other house.  As I suppose this comes from your worship I announce to you that I am quite ready to take a copy provided you do not insist upon my reading the 600 pages!"
+Very faithfully yours,
+T. Crofton Croker
+
+
+Box 4, folder 158
+George Cruikshank to TJP
+
+
+48 Mornington Place
+Feb 12th 1855
+My dear Pettigrew
+I am happy to say that Mrs Cruikshank is very much better already but she still have that nervous jerking - or sudden movement of the limbs - or in fact the whole of the body, you once prescribed some sort of drops as a remedy for this affliction: should she take this again?  If so, be so good as to send a prescription by the bearer.  
+Yours 
+G Cruikshank
+
+
+Box 4, folder 175
+Duke of Devonshire to TJP
+
+
+The Duke of Devonshire presents his compliments to Mr Pettigrew and will be happy to subscribe for a copy of the History of Mummies.  
+July 14 1833
+
+
+Box 5, folder 202
+Sir Henry Ellis to TJP
+
+
+My Dear Sir, 
+I have sincere pleasure in acquainting you that I have drawn up a Certificate for you at our Society which goes, by the same messenger who brings this, to Amyot for his signature.  I will afterwards obtain Combe's and Markland's, and you shall be suspens. per coll. on Thursday evening. 
+Believe me, 
+Most faithfully yours, 
+Henry Ellis
+
+
+Bruce Grove
+Tottenham 
+21 Oct. 1830
+My Dear Pettigrew, 
+Your note takes me, after what I forwarded to you, quite by surprise: because from the letter I received I had formed a notion that Mr. Gilbert did not intend to resign the Presidency voluntarily: and you say "he has sent me his resignation in favor of the Duke of Sussex and H.R.H. has accepted of the nomination"
+I dine with Bland tomorrow at six, and will call on you in Saville Row at Four or a little earlier.  
+I am ruralising for Vacation here in the midst of sloppy ways - not here voluntarily - but, like thousands more, have a house which I wish to let, and feel it might be kept aired at least a little till I find a tenant for it.
+I conclude Mr Gilbert will not be desirous of going back to the Treasurership.  But of this and all other matters when we meet tomorrow.
+My kindest regards to Mrs. and Miss Pettigrew 
+Ever truly yours, 
+Henry Ellis
+T.J. Pettigrew
+
+
+My Dear Pettigrew, 
+I thank you for your kind reminder: and will obey it.  But I have forgotten whether the Mummy is to be performed on at Saville Row or Charing Cross.  A verbal answer will do, if you are at home.  
+Kindest regards to all around you, 
+Ever yours, 
+Henry Ellis
+T.J. Pettigrew Esq. 
+&c &c &c 
+
+
+British Museum 
+22 January 1855
+My dear Pettigrew, 
+I had intended calling to leave my card in Onslow Crescent first, in thanks for the copy of your 'Letter to the Members of the British Archaeological Association', and next as a call of friendship; but my occupations are so continuous, and so unforeseen in many instances where they come upon me, that I have not found time.   So I thank you at once for the 'letter', and I cannot but unhesitatingly express, if it be only in compassion to the society, my sincere regret that a new and an unnecessary break-out should occur, at once distracting both the peace and the efficiency of the archaeological association.
+Every truly yours, 
+Henry Ellis
+
+
+Box 5, folder 212
+Frederick William Fairholt to TJP
+
+
+11 Montpelier Square
+May 29/52
+Sir
+I cannot resist the desire I feel to write at once & thank you for the lucid and able manner in which you explained the fallacies of Mr Bruce last night at the Antiquaries; and for the manly attempt you made to save the Society's respectability, and prevent an act of mad suicide.  I am so sure that you took the strictly proper view of the question, that I feel bound to thank you for the trouble and exertion you voluntarily underwent and I am sure the Society is much indebted to you in thus doing your best to save that position, which they have now forever lost.  
+I feel so strongly on this point that I cannot trust myself to say all that I feel on Mr Bruce's pamphlet, it is utterly illogical and inconclusive.  I could attach little value to a simple question, which requires 47 octavo pages to expound, it looks too much like special pleading, while his preface repudiates any claims "morally or justly" [...]
+
+
+Box 5, folder 223
+William Stevenson Fitch to TJP
+
+
+Ipswich September 3rd 1845
+My dear sir
+I received a note this morning from our mutual friend Sir William Betham, requesting me to send to you a copy of the letter from Sir Benjamin Tichborne to to King James the 1st, acknowledging the receipt of the warrant to stay the execution of the Lords Cobham and Grey, and Sir Griffin Markham, which was read by him at St John's room, at our late Winchester Congress.
+I assure you it will give me much pleasure to aid the good cause, in any way in my power, but I fear in this instance it will not be [...] because it was printed with copious notes in one of the volumes of the Archaeologia, after it was exhibited before the Antiquarian Society in December 1824, by Mr. Amyot, to whom it was sent by a relative, the late Mr Bennett of Norwich, and I am sure that our virulent opponents would be glad to catch hold of any thing to attack us - and they would do so in this instance and accuse us of printing in our journal, what had been given to the public more than twenty years ago - and thank God we were not in the situation of the Parker party who are about to meet [...]
+
+
+Box 5, folder 227
+Thomas Forester to TJP
+
+
+Ordericus.
+Dear sir 
+Having ??? in my preface (vol I. IV) to what I consider the merit of Ordericus from the English point of view, and justice having been done to them, generally, in Guizot's 'Introduction'(V. IV. pp. XII X.L.) and De Lisle's Notice, there is little to add.  This letter is, of itself, a valuable addition to the literary history of the Middle Ages.  
+The want of arrangement in Ordericus lessens its value as an historical work, but I have endeavoured to compensate for this by the analytical in the chronological & general index. 
+I have observed in a note (vol IV, p 141) that Ordericus is very happy in his description of natural occurences, as well as in his personal anecdotes, and his give a great [...] of reality to his work.  See also the story, vol II, p 321 &c.  Perhaps he is most happy in describing [...]
+
+
+Box 5, folder 232
+Henry Hall Gage to TJP
+
+
+Lord Gage will be happy to subscribe for a large paper copy of Mr Pettigrew's intended work upon the subject of Mummies.
+Firle 15th Aug 1833
+NB Ld G requests that his consent may be kept as in several instances it has been insisted that he had subscribed to works which he never heard of.  He therefore gives notice that he engages to take none that he may not remember, unless his consent can be produced.
+
+
+Box 5, folder 241
+Archibald Acheson, 2nd Earl of Gosford to TJP
+
+
+London 5 April 1833
+My Dear Sir, 
+I had hoped to have thanked you in person today for all your kindness, a severe cold prevented my doing so.  I should have had much pleasure in witnessing the curious exhibition at Charing Cross Hospital tomorrow; but as it must be my last day in town & having many ... to execute I have only to express how much I regret that I cannot avail myself of your kind & tempting offer.
+Believe me
+Yours ever faithfully
+Gosford
+T.J. Pettigrew Esq
+&c &c &c
+
+
+Box 6 folder 257
+James Burton to TJP
+
+
+St Leonard on sea
+July 5 1833
+Dear Sir 
+Please do insert my name as a subscriber to your History of Mummys
+Yours very truly
+James Burton
+T.J. Pettigrew Esq.
+&c &c &C
+
+
+My dear Sir, 
+Our protege of the White River is, I understand, again confined to his bed.  In the absence of Mr Hoskins, & of our friend Wilkinson, I am requested to ask you to have the kindness to pay him a visit.  
+Yours very truly, 
+James Burton
+49 Jermyn St
+Saturday eve
+
+
+My dear sir, 
+I sincerely thank you for your account of the mummy of Petansutishane, which I have received from our friend Wilkinson, & which I sought to have acknowledged the or three days since.  
+Yrs truly obliged, 
+James Burton 
+49 Jermyn St
+Monday
+
+
+Box 6 folder 262
+William Richard Hamilton to TJP
+
+
+Chelsea
+Feb 7 /37
+My dear sir, 
+I beg return you my best thanks for your kindness in sending me an admission ticket for your lecture on Egyptian Antiquities, which I hope - at least some of them, I be able to attend.
+[...] 
+WR Hamilton
+
+
+12 Bolton Row
+Oct 29/41
+Dear Sir, 
+I shall be most happy to become a subscriber to your Encyclopaedia Aegyptiana, and am glad to hear that a book which may be so useful is in such good hands. 
+Yours truly,
+WR Hamilton
+
+
+Box 6 folder 263
+Thomas Hancock to TJP
+
+
+Lisburn
+29th of 4th mo 1842
+Dear Pettigrew
+My relative Dr. Henry Richardson having just completed his professional education as surgeon & physician, and intending to take London on his tour to Paris, I take the liberty to introduce him to thy kind notice, as a young man of excellent character & qualifications.  Knowing as I do thy extensive influence & acquaintance, may I venture to solicit thy kind interest & recommendation on his behalf in case he should with to see, in London or elsewhere, any particular object connected with the profession?  He will be interested in seeing thy collection of Egyptian relics. 
+I am sorry that my health has not been good of late, of which he will inform thee.  I shall be truly glad to hear of thy prosperity and also of the welfare of thy family.  
+My kind regard to thy wife & believe me 
+Thy sincere friend
+Thos. Hancock
+
+
+Box 6, folder 270
+John Haslam to TJP
+
+
+My dear Pettigrew, 
+I fully intended to avail myself of your kind invitation to view your Egyptian anatomist, whose fame has already reached me, and whose zeal to retrieve the ancient celebrity of the alexandrian school in that hot and occasionally pestilent climate intitles him to the highest commendation: but I am afraid of encountering the night air of this inclement season, and am actually labouring under a severe cold. 
+Yours most truly, 
+John Haslam
+Hart Street
+25 Jan 1833
+
+
+My dear Pettigrew
+Do not suppose me to have neglected your invitation to the Conversazione the truth is I have been unwell, and advised not to venture out in the evening.  At your next meeting I fully intend to pay my respects.
+Yours most truly
+John Haslam
+5 April 1832
+2 Hart Street
+Bloomsbury
+
+
+Box 6, folder 273
+Caesar Henry Hawkins to TJP
+
+
+My dear Sir, 
+I ought to apologise for not having sooner answered your note, allow me however to say that I shall be very happy to have my name among the subscribers to your forthcoming work, as I have no doubt from the specimen we have already had at Charing Cross, that you will make the subject very interesting.  
+Believe me, 
+Very truly yours, 
+Caesar Hawkins
+Half Moon Street
+Monday morn.
+
+
+Box 6, folder 274
+Edward Hawkins to TJP
+
+
+Mr Hawkins presents his Compl. to Mr Pettigrew, and sends him a copy of the Charter and Statutes of the Soc. of antiquaries, and requests him to insert in the margin any remarks, alterations or additions which he thinks may tend to the improvement of the Society, and to return it to him for the consideration of the Committee.
+B.M.
+20 Dec. 1852
+
+
+Box 6, folder 275
+Francis Hawkins to TJP
+
+
+My dear sir, 
+I can shew you an autograph of Harvey, (which I suppose you can take off with tracing paper) and shall be happy to go to the College for that purpose.   Perhaps you can meet me there on Thursday (the day after tomorrow) at 5 P.M.
+The bust of Galen is said to be an antique and was presented to the college by Lord Ashburton
+I am, 
+Dear sir,
+Yours faithfully
+Francis Hawkins
+Curzon St
+August 27.
+
+
+My dear sir,
+I am afraid that the question which you have sent me may be easily answered for the College of Physicians & almost the whole of its library were consumed by the Fire of London, 1666, only 112 volumes having been saved from the flames. 
+Yours faithfully
+James Hawkins
+Curzon St
+March 23. 1838
+
+
+Box 7, folder 309
+Alfred John Kempe to TJP
+
+
+3 Stamford Villas 
+Fulham
+April 13th 1846
+Dear Sir, 
+If I should not be from home to morrow I shall be happy to accept your friendly invitation for Sunday Evg next at 8 o'clock but if the weather should prove fair I shall be in absent in the country during the first [...] of the present week which will prevent me from the pleasure of meeting you.  
+The approaching election at the Society of Antiquaries on St George's day is necessarily a matter of great interest to all who are concerned for the due administration of the Society's affairs.  Of the [...] List of the Officers and new Council I can be suffered to know nothing for it had not yet been issued to the Members.
+I only hope when it does appear to find that the public assurances given by Sir Henry Ellis that the council is selected from the working Members of the Society will be verified; that we shall not find certain names repeated over and over again in [...] or alternate [...] from some secret influence of selection to the injury and exclusion of others who have by their personal exertions promoted the intents and objects of the society
+[...] 
+
+
+Box 7 folder 310
+Robert Masters Kerrison to TJP
+
+
+New Burlington Street
+Feb 5 1829
+Many thanks, my dear sir, for your invitations of the 11th instant and 4th [...] to the Scientific Assemblage and the inspection of those interesting objects which your cultivated mind has prompted you to collect, & to display on those occasions.
+I remain
+Very truly yours
+R.M. Kerrison
+
+
+New Burlington Street
+May 8th 1833
+Dear Sir, 
+I have received your note with the prospectus for a History of Mummies - 
+The subject is one of interest & will, in your hands, become valuable to men of philosophical turn of mind, as well as to the mere practitioners of medicine - I will thank you to put down my name for a copy of the work, not on large paper.
+& I remain
+Dear Sir, 
+Very truly yours
+R.M. Kerrison
+
+
+New Burlington Street
+August 31 1836
+My dear sir,
+I have read the printed address to the Governors of the Charing Cross Hospital which you sent to me yesterday, and cannot postpone the expression of my regret that you should have sustained so unkind a requital after many years of useful professional labour, during which time the present institution has been fostered to its completion and greatly aided by your activity and zeal.  
+It would be improper in me to offer an opinion, without learning what your adversaries have to advance (as arguments) but you seen to have made out so strong a case and to have stated such facts concerning improper management of the affairs of the institution and such gross partiality in the selection of persons to advocate particular [...] that, unless the Governors, as a body, take the management with their own hands and act as an independent body, upon just & broad principles the Hospital must soon fall & all its prospective usefulness become lost to the public.
+
+
+Box 7 folder 317
+Charles Dietrich Eberhard Konig to TJP
+
+
+British Museum
+Monday
+My dear Pettigrew
+You must have been surprised not to see me yesterday, after having so eagerly accepted your invitation to be present at the opening of the mummy.  The cause of my not being there was as unpleasant to me as was the effect.  Confounded Museum  & Somerset House business had so burdened me as to make me mistake the hour, for when I had got through it, on again looking at your card I was shocked to find myself about an hour after my time.  I hope I shall be more fortunate the next time.  Yours ever sincerely
+Chas Konig
+
+
+Box 7, folder 326
+William Elford Leach to TJP
+
+
+Br Museum 22nd Nov 1817
+Dr Leach returns his most grateful thanks to Mr Pettigrew for the skin of the bear, which the bearer will take off, if he may be allowed to do so, without injuring the carcase for anatomical purposes.
+Dr Leach will be very happy to show to Mr Pettigrew a very curious new bear from India and likewise some curious [...] in the anatomy of mollusques if Mr Pettigrew can call at the Museum [...]
+
+
+Box 7, folder 328
+Dr John Lee to TJP
+
+
+My dear Sir
+I had the pleasure of writing to you a few days ago to mention that the mummy is now at your disposal and may be opened at any time convenient to you, and it shall be sent to any place according to your directions.  
+I hope I may be able to come again on the 19th.
+I remain 
+My dear sir
+Your faithful humble servant
+John Lee
+Doctors Commons 
+June 14. 1833
+Mr Burgon will be glad to shew you the seals which he took from a Grecian mummy.
+
+
+My dear Sir
+I have the pleasure of sending to you the No. 19 of the Encyclopedia Metropolitana and a copy of Mr Yates memoir on the Pyramids, the latter of which I request you to accept - and I send for your inspection nos. 1-9 or  all the number of Monsieur Baillaud's work on Les arts et metiers d'Egypte &c &c which I possess - my copy of the Pantheon Egyptienne is not at home at present.  
+I remain
+My dear sir
+Your faithful humble servant
+John Lee
+Doctors Commons 
+November 16. 1833
+
+
+My dear sir
+On my return to London on Friday evening I received your note and the interesting work which you have had the kindness to present to me, and its value is enhanced in my esteem, by the manner in which is has been presented to me.  You have however I think appreciated my services too highly; and I am gratified, if such as they have been, they have been of any use to you.  
+I have not hitherto had leisure to read the whole of the work, but I value highly that which I have examined, and every page contains abundant proof of your labor and [...] and taste in the selection of the materials - also a great part of the matter is entirely new, and your own, and I consider it a most valuable addition to the stores of Egyptian literature.
+I remain
+My dear sir
+With must respect
+Your faithful humble servant
+John Lee
+College
+Doctors Commons 
+15 April 1834
+
+
+My dear Sir
+Mr Fox a medical gentleman of Godmanchester has heard and read of your mummy, and would be most gratified, to be permitted to see it before his departure home; he will be at the Antiquarian Society today, and I have taken the liberty of introducing him to you, by this note, in case you should be there, and if you can favor him with a sight of it, and also of your wax preparation, I should be much obliged to you.  
+He has also heard of your fame as an antiquarian, and having a collection of local antiquities, and being acquainted with some of your work, it would be a gratification to him, even to see you. 
+[...] 
+Believe me, 
+My dear sir, 
+Yours faithfully
+J. Lee
+D.C.
+23. April 1838
+
+
+My dear Sir
+[...] 
+your son informed me that the lecture begins at nine PM or later - if I be mistaken in the hour, pray favor me with a note to this effect - before tomorrow at two PM  I shall be obliged to you to favor me with a ticket of admission for Mr Cullimore, the author of Chronologia Hieroglyphica.  Mr Seely of Aylesbury, a medical gentleman would I believe come to London on purpose, if you would favor him with a ticket.  
+Believe me, my dear sir, 
+yours faithfully
+J. Lee
+D.C. 
+20 May 1836
+
+
+My dear sir,
+[...] 
+your daughter has had the kindness to remain with us a few days longer and has given us much assistance in arranging our museum.  
+I hope the your expedition to Jersey will the source of much gratification to you and it will be the cause of much instruction & information to your audience. 
+[...] 
+Believe me 
+My dear sir
+Yours faithfully
+J. Lee
+Hackwell
+31 August 1837
+
+
+Box 7, folder 330
+Samuel Lee to TJP
+
+
+Dr Mr Pettigrew
+Your valuable work on Mummies arrived some time ago, for which I and the world in general must thank you.  Pray charge it to my account with you.  I cannot think of taking it for a consideration.  
+[...] 
+I remain
+My dear sir
+Yours very truly
+Saml. Lee
+
+
+Box 7, folder 332
+Conrad Leemans to TJP
+
+
+Leydon January 1839
+My dear friend, 
+I hope Boerhaven's monument has reached you in time to be published in the number of your journal for this month.  I take now the liberty to trouble you with a few copies of the herewith going prospectus, which I beg you to put into the hands of such persons, as you think most proper.  Leaving the whole to your own arrangement, I only name Mr Wilkinson, Lord Prudhoe and Mr Murray, as the persons to whom I beg you to deliver a copy in my name.  I should feel glad to get the names of the subscribers before the first day of April.
+With my kindest regards to every member of your family circle, I am 
+Yours very faithfully, 
+C Leemans
+
+
+Museum of Antiquities
+Leydon
+January 26 1839
+My dear Sir,
+I have the honour of sending you herewith 
+Ten
+Copies of the prospectus containing the conditions, upon which the Egyptian Monuments of the Netherland Museum of Antiquities at Leydon are to be published, on the orders of the Government.
+I may presume, that in a country, where so great an interest is taken in every scientific undertaking, and particularly in archaeological researches, a great number of subscribers will contribute to the success of a work, which is expected to be of great use for the study of Egyptian antiquities.
+If you should think it necessary to enter in correspondence with me upon this matter, or to send me the names of the subscribers directly, without the interference of a bookseller, I beg you to deliver the letters (*) at the residence of his Excell. the Ambassador of the Netherlands, 27 Bryanston Square.
+At the first fascicules will be ready about the month of April, I should feel very glad to be informed of the names of the subscribers before that time.
+I have the honour to be, 
+Dear sir,
+Your's very obediently,
+C Leemans
+(*) to the first conservator of the Museum of Antiquities (Dr C. Leemans)
+ 
+
+Leydon Sept. 18. 1838
+My dear friend
+Allow me to introduce to you my friend Dr Lepsius, one of the finest hieroglyphical scholars now existing.  
+I have given to Dr Lepsius a letter for Elise, which will give you further particulars, but as I feared that perhaps she might not yet be returned from the country, I take the liberty to send a recommendation to you personally.
+Pray accept my best thanks for your interesting paper on the Jersey mummy, and believe me with the kindest remembrances to every one of your amiable family circle, 
+Yours very sincerely, 
+C Leemans
+
+
+My dear sir!
+[...] 
+I am in a sanguine expectation for the hieroglyphics found in the pyramids.  As I am on the point of finishing my Lettre sur les monumens egyptiens, les musees de Leide et de Londres, portant des legendes royales, I should feel exceedingly obliged, by getting a copy of the inscriptions deposed at the Royal Soc. Of Literature
+[...] 
+Leydon Nov 17 1837.
+
+
+My dear Sir!
+[...] 
+I hope that Friday next I will obtain the permission to study your Egyptian antiquities on some day in the easter week, the museum being closed during that time.
+[...] 
+22/3/1836
+
+
+Box 7, folder 333
+Robert Lemon to TJP
+
+
+State Paper Office
+Tuesday afternoon
+My dear Sir,
+With my very best thanks for your kindness in forwarding the Card, for the unrolling of the Mummy on Saturday, may I hope you will add to the favor, by your permission for my son to accompany me, who expresses an anxious desire to be present at the Resurrection.
+Yours most obliged 
+Robt. Lemon Esq.
+T.J. Pettigrew Esq
+&c &c &c
+
+
+Box 7, folder 342
+William Linley to TJP
+
+
+Chambers May 2nd
+My dear Pettigrew,
+If I am not so constant an attendant at your mental banquets ("Conversaziones") as I could wish, attribute it not to forgetfulness, or indifference on my part to what I really feel your flattering distinction of me; but the truth is, your Wednesdays, my kind friend, pull one way, and the Ancient Ancients another, and then I have only to sing Captain Macbeth's song in the Beggar's Opera - 
+"Which way shall I turn me?
+How can I decide?"
+
+
+Box 8, folder 374
+Joseph Mayer to TJP
+
+
+68 Lord Street 
+Liverpool
+Octo 3/49
+Dear sir, 
+[...] 
+But that is not the principal object of my addressing you - it is to ask your permission to see the collection of Egyptian antiquities I have so often heard spoken of - when I again visit London - which permission will very greatly gratify & oblige.
+Dear sir, 
+Yours very truly,
+Joseph Mayer
+
+
+Box 8, folder 378
+Samuel Merriman to TJP
+
+
+My dear sir, 
+I enclose a check for #3:11:6
+I am at present a member of the Camden Society and have lately become a member of the Wiltshire Topographical Society, and I am now growing less willing to enter into societies than I was - I must therefore decline enrolling my name in another of the same, or of a similar kind, for I feel these calls upon my purse more bothersome than they used to be.
+The book to which I alluded was half-bound 12.mo with my book plate pasted on the cover at the end were some M.S. corrections by the Editor, who appears to have been a Dissenting Minister and gave the copy to my grandfather.
+I once sent some slight account of it to the Gentleman's Magazine, and likewise wrote to the editor the Athenaeum (Dr Aikin) describing it; this description I afterwards pasted in the volume
+I have been trying to ascertain the exact title but am not sure that it is quite correct - it is mentioned in Cotton's Catalogue of Bibles &c but I cannot lay my hand upon my copy - I think it must have sent it to my son-in-law for I am unable to find it.
+Divers Parts
+Of the New Testament
+Done into English
+Chiefly from Dr Mile's 
+Greek copy
+With notes and plates 
+London 
+Printed by
+T. Picty at the 
+Paternoster Row
+176-
+If consists of the four Gospels & acts of the apostles - the plates are Solomon's Temple - a map of Palestine and another of St Paul's Travels.
+I was rather surprised that no notice was taken of it, and feared that his Royal Highness might rather have taken umbrage at my boldness in offering so small a volume as a companion to so many splendid ones as his library contains - 
+Believe me dear sir
+Yours faithfully
+Sam Merriman
+I should not have alluded to this matter, but the publication of your valuable volume called to my mind.
+
+
+Box 8, folder 379
+Sir Samuel Rush Meyrick to TJP
+
+
+Goodrich Court
+15th July 1843
+Dear Pettigrew,
+I have waited hitherto in the anxious expectation of getting for you a Hereford Times paper, in which my inaugural address appeared.  But no premium on the original cost can procure one, as the whole impression (though enlarged on the occasion) was swept away at once.  King of the Herald's College has a copy that he would shew you, if you can contrive it, but the honor you intend me is not worth putting you to trouble to perform, though I am quite sensible of my obligation.  
+The first lecture on the Histy. of England was to have appeared to day, but instead there is a postponement of a first portion to next Saturday.  If they send me from Hereford the number I have ordered, I shall have the pleasure of forwarding one to you.  But please read it as address to mechanics who have all to learn.
+King will bring down the sword on the 5th of August, and what you sent with it I am expecting with a large package of books by the waggon.  
+I trust your daughter was quite well when you heard from her and that if she and her husband ever feel inclined to travel towards this part of the world I shall be most happy to receive then as Goodrich Court.
+With best respts. to Mrs Pettigrew and the rest of your family 
+I remain
+Most truly yours
+Saml. Meyrick
+
+
+Goodrich Court
+8th Octbr. 1843
+Dear Pettigrew
+I am very greatly obliged by the trouble you have been taking about the catalogues, and trust sooner or later your exertions will be crowned with success.  I fear your kindness induces you to speak too well of what I addressed to the mechanics, but it must always be borne in mind, that I had to speak to people but little informed.  This post ought to have conveyed to you a portion of my 2nd lecture but the editor of the Hereford Times has not sent me the right number.  I have however written to him, and as soon as I get it, will forward your copy.  Many thanks for your kind intention respecting the Medical Superstitions.  The book cannot fail to be interesting, if as well compsosed as your other works.  
+I regret to hear of Mr Gurney's bad state of health, but as I know he is in good hands, am sure that all which science and skill can effect, he will have the good fortune to experience.  
+Not unnecessarily to intrude, I shall beg to be remembered to the different branches of your family when you write to them, and to subscribe myself
+Most truly yours 
+Saml Meyrick
+
+
+Goodrich Court 
+30th June 1845
+My dear Pettigrew
+The only reason I did not transmit to you my approval of your reply was an idea that it would be surplusage, as every unprejudiced person must have regarded it as quite satisfactory.  I am delighted with the sentence p.g. beginning "It may be safe," but what most astonishes me is your praiseworthy conduct in being so temperate while so much is done to stimulate your anger.
+I cannot be present at Winchester.  If I could for one day, I would for all.  The lecture on shipbuilding thought calculated for a Mechanics Institute would requite not only to be greatly simplified, but treated more scientifically when read to so learned a body as the British Archaeological Society.  For this I have not the time.  The Hon. G. Secretary of the Archaeological Society asked me last year to dress up the paper I sent to the Antiquaries, on alphabetical notation in music, for your last meeting at Canterbury.  
+Had the Dean of Hereford kept his promise (a practice I never find him pursue) and given me tracings from a flyleaf to a book in the Cathedral library, I think with other memoranda, a curious dissertation might be written on that subject, but for all the renewed promises on this matter I have waited in vain.  
+Wishing you every success, and still hoping that the severed parts of the Association may be reunited, 
+I remain, my dear friend, 
+Most truly yours, 
+Saml. Meyrick
+Best regards to your house.
+
+
+Goodrich Court
+21st Septr. 1846
+Dear Pettigrew, 
+Enclosed is the silver, and tomorrow I will send the gold of my young cousin's subscription to the Archl. Association, and when received you can send the receipt to him.  I shall also send you Shaw's tracing & King's colouring of the painted slab you wished with a pencil tracing of the figure by the note to shew with how much more spirit and how far more artistically the original is.  There will be with it the ground plans and elevations of the ship temples, to which your artist must give effect and which must be numbered with corresponding references in the letter-press.  If I have time to make a reduced drawing of the Roman inscribed monumental stone with its specimen of military costume I will do so, as Mr. Roach Smith desired, if not the others must go without.  
+If you publish a volume on your Gloucester peregrination, please to put my name down for a copy.
+With best regards to Mrs Pettigrew and all your family,
+I remain
+My dear friend
+Most truly yours, 
+Saml. Meyrick
+
+
+Goodrich Court
+20th May 1847
+Dear Pettigrew, 
+I ought in the first place to thank you most cordially for all the flattering encomiums you have been pleased, both in print and orally, to bestow on me in your addresses to the Archaeological Association; and next to thank you for the very friendly reception I invariably experience at your house.  My object in speaking to Mr Wright was to know whether my paper on the Llanvair rail which I had written to demonstrate its being alphabetic musical notation, was to be published in the account of the Gloucester Congress.  He said that he could not answer the question till there had been a meeting to determine the matter and that he would speak to you o the subject.  You will very greatly oblige me by the earliest information thereon, as should it be rejected, I must beg to have the paper and drawings returned as soon after as possible, because I should then read it at the congress of the Cambrian Archaeological Institute at Aberystwyth in the second week in September.  I would much rather both my communications appeared with your Association, but if that be inconvenient, I must send an early notice to the Cambrian secretary.  The country is looking most beautiful and I found quiet and dose of castor oil restore me to perfect health, which for wont of both I could not have in London.  
+Pray remember me most kindly to Mrs Pettigrew and your charming family, and 
+Believe me, 
+Your very attached friend,
+Saml. Meyrick
+To T.J. Pettigrew Esq.
+&c &c &c
+
+
+Box 9, folder 389
+William Muller to TJP
+
+
+My dear Pettigrew, 
+According to your desire I shall wait on you to day at six.  I shall take the liberty of bringing one of my cosmospheres to show the complete instrument if I know that it is not intruding upon your time, because it may perhaps amuse your children.
+Every yours,
+W. Muller
+Tuesday 
+15 September 1829
+
+
+Box 9, folder 392
+George Augustus Frederick Fitzclarence, 1st Earl of Munster to TJP
+
+
+St James Palace
+12 July 18?1
+My dear sir - 
+I did not fail to mention your name to the King but I am sorry to say that the post of librarian has I understand been continued in the same person as under the last reign.  
+Most truly yours
+Fitzclarence
+
+
+Burlington Hotel 
+Thursday
+Dear Sir,
+Having heard from Lady Cecilia Buggin that the Duke of Sussex had sustained a great loss in his valuable and attached old servant - would you excuse the liberty I am taking in recommending most strongly the bearer whose colour and good qualities may in some degree repair the loss - he has borne an unimpeachable character for the last eight years, and the cause of his leaving his late master, Captain C.M. Schomberg, now Commodore at the Cape of Good Hope, was his dislike to go to sea.
+I remain dear sir
+Yrs truly
+Augustus Fitzclarence
+
+
+Box 9, folder 393
+Thomas Murdoch to TJP
+
+
+8 Portland Place 19 June 1833
+My dear sir, 
+I have received your note, with a prospectus for the history of Mummies - as I yesterday completed my seventy-fifth year - it is more than probable that although I may not be a Mummy I shall be a corpse before your proposed work sees the light - I must entreat you to be satisfied with my good wishes, instead of inserting my name in the list of subscribers - yours faithfully, 
+Tho Murdoch
+Mr Pettigrew Esq.
+
+
+Box 9, folder 399
+John Newman to TJP
+
+
+Bridge House
+24 June 1834
+My dear sir
+I have much pleasure in forwarding you the enclosed cheque for one hundred pounds, for your kind and constant attention to our late much lamented friend Mr de Vinches; his family duly appreciate your kindness towards him during his long and [...] illness, and I am certain they regret, that it is not in their power to remunerate your services equal to their wishes.
+I have the honour to be
+Dear Sir,
+Your very obed. Serv
+John Newman
+T.Pettigrew Esq.
+
+
+Box 9, folder 405
+Algernon Percy, 4th Duke of Northumberland to TJP
+
+
+Whitehall Gardens
+March 21st 1842
+My Dear Sir, 
+On my arrival in London yesterday I found your letter enclosing a prospectus for your Encyclopaedia Aegyptiana.  I shall be obliged to you to put down my name as subscriber.  Such a work would be a great acquisition to our libraries, but its merit will principally depend on the accuracy of its illustrations & inscriptions.  I know no artist but Bonomi, who in his hieroglyphics, and figures, discriminates between the kingdoms of Egypt, and the dates in its chronology.  His assistance to your work would be invaluable.
+Yours truly
+Prudhoe
+
+
+Box 9, folder 411
+Sir Gore Ouseley to TJP
+
+
+49 Upper Grosvenor Street
+June 20th 1833
+My dear Sir,
+I shall feel honoured by your placing my name in the list of subscribers to you work on Mummies, as I feel confident that the subject, in itself interesting, will be rendered doubly so by your able mode of handling it - I fear I may be out of town on Monday, but if not I shall avail myself of your kind permission - my dear sir
+Most faithfully yours,
+Gore Ouseley
+
+
+Box 9, folder 412
+Sir Benjamin Fonseca Outram to TJP
+
+
+15 Apr
+My dear Sir, 
+I intended myself the pleasure of waiting upon you last Wednesday evening to have thanked you for your kind card of invitation but was obliged to defer doing so until the 27th when I will have the honor of attending your Conversazione after a part of the ancient Greek.
+I am, my dear Sir, 
+Yours very truly, 
+B F Outram
+
+
+Hanover Sqre
+10 June 1833
+My dear Sir, 
+I regret that owing to an accident your letter & prospectus have only just reached my stand.
+Pray set my name down for the smaller copy as I never do encourage that very expensive & splendid mode of bringing out a work, which only enriches the bookseller, & never the author - the noble & the very wealthy however should act differently..
+I have no doubt of the interest of your proposed publication, which I shall be impatient to see and have the honor to be with respect and regard 
+My dear sir,
+Yours
+BF Outram
+T.J. Pettigrew Esq.
+&c &c &c
+
+
+Box 9 folder 417
+George Patten ARA to TJP
+
+
+My dear sir
+After the great kindness you have so recently shown me and lively interest you have taken in those things which have made "the business of my life" I cannot compose myself to my usual quiet until I have in some way endeavoured to thank you - that you have approved of my labors, have sympathised with the feelings which produced them, has gratified me more than I can find words to express - yourself a mighty master in an intellectual world where all honor is awarded to merit alone - I cannot tell you how my lonely pursuits have been cheered by your flattering recognition - I have only to wish that the sanctity (?), the unpurchasable satisfaction which you have so exquisitely & delicately shed upon me may be returned to you tenthousandfold - & have to accept all that I have to offer - my simple heart-felt thanks, and the assurance that my memory will hold no dearer or more touching instance of regard - than the feeling you have expressed towards me.  With all esteem & acknowlemt. Believe me
+My dear sir
+Your very obedt. Servant 
+George Patten
+59 Bowers St
+April 1 1849
+T. Pettigrew Esq
+&c &c &c &c 
+
+
+Box 9, folder 421
+John Penn to TJP
+
+
+Spring Gardens 
+May 9th 1811
+Dear Sir,
+I shall only say in answer to what you observe on the invention of my name, that you will see from the enclosed my wish that it shod remains set down for five copies.  On the subject of Walter Scott I think that he has considerable genius too much alloyed by taste; but I have never seen either genius or taste in the criticisms on poetry I have read in the Edinburgh Review; which seems quite at variance with Longinus on the pleasure derived from antientry (?).  They seem to wish the distinction of received opinions on poetry, without substituting new ones, or even explaining what they would have.  I congratulate you on the idea of Westminster Abbey as a subject of local poetry, & wonder I never thought of it, in reading Spectator, or Walker's St James's Park.  It is one indeed replete with sublimity; of which your plan, too, allows the full operation.  I did not think I should have had to quote in answer to you, as West did in answer to Gray "vive paulisper cum vivis" for I have lately upbraided a really old bard, Jerningham, for writing his Farewell, when he presented it to me.  I hope you will be the poet, if there is to be one, who will celebrate Stoke; as Dr Lyther who was meditating it, is dead, & cannot therefore prevent it from sharing his fate.  In the mean time, I trust we shall drink to the memory of Horace & Maecenas, writers of the old school, when their busts adorn my garden, opposite to each other, & breathe a wish for the restoration of pure taste, on perusing the immortal alcaics beneath them.  
+I remain dear sir
+Very sincerely yours
+Penn
+PS I expect in a very few days to be myself in the Tuss(?) - I own I wish the moonlight were a little clearer.
+
+
+Box 9, folder 431
+Thomas Phillips to TJP
+
+
+Dear Pettigrew, 
+350 People 36 large gas flames smoking & steaming for an hour without ventilation at the Royal Academy on Tuesday have deranged my biliary organs so that I cannot positively say that I will obey your kind summons, but if I may say I will if I can, perhaps you will indulge me.  I shall like to see the crocodiles.  
+[...] 
+yours &c
+T Phillips
+
+
+Box 9, folder 442
+Beale Poste to TJP
+
+
+Dear sir, 
+I am informed by Mr Wright you have the map of Roman roads in Sussex which was sent with my paper on the Roman Camp at Lingfield Mark & which is to be engraved to illustrate that paper for the Gloucester volume - I have corresponded with Mr Wright on the subject of its being engraved which is arranged, the society paying half and myself half, and it is to be engraved by Mr Jobbins, lithographer 3 Warwick Court Holborn who is waiting for it.  Please therefore be kind enough to transmit the said map of Roman roads from London to the coast of Sussex to Mr Jobbins according to his address as above.
+I hope you will excuse my troubling you on the subject as it might occasion some delay in the Gloucester volume & beg to remain
+Dear Sir
+Yours very faithfully
+Beale Poste 
+Bydews Place 
+Near Maidstone
+October 6th 1847
+
+
+My dear Sir
+If you can lay your hand readily on the map which accompanied my paper on the Camp at Lingfield Surrey, of Roman Roads from London to the Sussex Coast, I should feel much favoured if you could inclose it to me.  
+I am getting the map engraved for the Gloucester volume and I find it is much wanted as being more correct than the rough copy I have here.
+Hoping you will excuse my troubling you 
+I beg to remain 
+My dear Sir
+Yours very sincerely
+Beale Poste
+Bydews Place
+near Maidstone
+Saturday 5th Feb 1848
+
+
+Bydews Place
+near Maidstone
+February 19th 1849
+My dear Sir
+I beg to submit the accompanying paper intended for the forthcoming number of the Journal.
+It seems to be obvious that in this country we are far behind in our acquaintance with our ancient Celtic coinage to what is the case in France [...] regard to the coinage of ancient Gaul.  The inquiries here instituted as to the origin of the cognate coinages of this and the neighbouring country may tend to direct our views as to the proper principles on which our ancient British coinage is to be considered and enable somewhat more definite views to be entertained on the rather obscure point of the period of its commencement and other particulars of interest.
+Six wood cuts of coins and one plate will be required, the former will be from about 36s to two pounds as near as I can judge  The plate I will have engraved at my own expense.  The paper will occupy 14 or 15 pages of the Journal 
+I beg to remain
+My dear sir
+...
+Beale Poste
+
+
+Bydews Place
+near Maidstone 
+June 11th 1849
+My dear Sir
+I have a paper which I have drawn up for the Journal on British coins which I wish much to be inserted in the forthcoming number.  I should have sent it before but it was not quite finished.  Now it is, and you will receive it Thursday next, as I have to transcribe it.  It will be nearly 6 pages of the Journal and I must hope there will be space for it.
+It will require 3 wood engravings of coins to be executed by Mr Fairholt, which I will supply at my own expense.
+I hope soon to call and pay my respects when in town, and I beg to remain
+My dear sir
+Yours very sincerely
+Beale Poste
+
+
+My dear Sir
+Agreeably to your wish I have sent off what information was in my power on the obscure and uncertain though interesting point relating to the existence of the ancient nation alluded to in the North of England, to Dr Johnson & I hope it may not be entirely useless to him.
+I hope to transmit my paper to you in two or three days.  The title is Recent discoveries relating to ancient British chariots
+I beg to remain
+My dear sir
+Yours very faithfully
+Beale Poste
+Bydews Place
+29th July
+1850
+
+
+Bydews Place 
+near Maidstone
+4th Augt. 1850
+My dear Sir
+I forward my paper for the Manchester and Lancaster Congress to day.  If opportunity permits I should like it to be read; and if time does not permit otherwise it might profitably be read in a somewhat abridged form.
+If a copy of the sketch should be wanted, as I do not know whether you cover the walls of the meeting room with drawings, etc. I could forward you one: as I should wish the one sent with the paper to remain attached to it
+I have the honour to be 
+My dear sir
+Yrs very faithfully
+Beale Poste
+
+
+Box 10, folder 454
+Miguel del Riego to TJP
+
+
+The 3rd of April 1826
+My Dear Sir,
+The bearer of this, Mr P. MacDowell, a young artist, who has taken the likeness of a friend of yours' in a Bust wishes to show it to you before he sends it tomorrow to the Royal Exhibition at Somerset House, with a few more, bringing this as a specimen of his work for your inspection.
+He was in hopes to have finished it before this time; and your friend, was thinking to ask you the favour to give it a place at your home, where it might be seen at the Conversazione by your numerous & literary friends, expecting also, that his Royal Highness, coming there, it might attract his notice; and satisfied with the exertions of the young Artist, be kindly disposed to accept a copy of the Bust, which he would be very proud to present H.R.H., should he deem it worthy his acceptance[...]
+
+
+Box 10, folder 458
+David Roberts to TJP
+
+
+Jany 14th 1846
+My Dear Sir, 
+Many thanks for your kind note accompanying your work on the Mummies of the ancient Egyptians, and which I will value not less for the interest of the subject on which it treats as from its being the gifted (?) of its talented author.
+With regard to the subject on which we spoke the other evening I fear I did not sufficiently let you understand, how matters at present are - although nothing at present is definitely settled, yet a certain partie has already been spoke to on the subject, but who unfortunately has never had the advantage of seeing the country - but at the same time I am strongly inclined to think would forgo any claim he may have, were there a probability of Sir G.W. being likely to devote his talents and reputation to such an understanding - but whose own reputation stands sufficiently high both in literature and arts - as to be quite equal to the work.
+Otherwise I need not say how much gratified I should have been to have benefited by your charming and extensive knowledge in all connected with that remarkable country.
+I find I paid my first and only years subscription[...]
+
+
+Fitzroy St, May 27th /48
+My dear Pettigrew, 
+In the event of my not finding you at home - might I ask the favour of your calling upon me any day you are passing betwixt this and Friday - as I am anxious that all things should be to your likening by that day - and when you see the room again - you will be better able to let me understand what you may require.
+All my invitations have been sent - and barely a refusal - 60 have already accepted - amongst whom are some very learned Egyptians - I hope you have invited Wilkinson - although I fear his health will scarce admit of his attending.
+Believe me very
+Faithfully yours 
+David Roberts
+T.J. Pettigrew Esq.
+
+
+Box 10, folder 496
+Charles Roach Smith to TJP
+
+
+My dear sir,
+I forgot my minute book last evening.
+On my return home I found a note from Dunkin who states that he has persuaded Mr Creasy F.S.A. to go to Winchester on purpose to get us an account of the Cathedral, & that he is now actually there for that purpose.  Creasy I am told drew up the account for Britton's Cathedrals.  The programme is in press.  I worked two hours at it after my return this am.  
+I have asked Nixon the sculptor to bring something to exhibit to morrow evening and also others.  
+Mr Bruce reads a deed.
+Yours sincerely., 
+C.R. Smith
+5 Liverpool St
+City
+July 15 1845
+[on reverse side] I have the title of Somer's paper.
+
+
+On headed notepaper - "British Archaeological Association"
+5, Liverpool St. City
+April 8 1844
+My dear Sir, 
+At the last meeting of our sub-committee, I announced that the landlord of the apartments of the Num. Soc. objected to our meeting in them.  Mr Way requested me to wait until Monday before I took steps to inform the Committee of this unlooked-for obstruction as he thought he could obtain for us leave to meet in the room of the Society of Literature; but I have not yet heard from him.  We also spoke of your kindness in offering us the use of one of your rooms.  I am however up to the present moment uninformed of Mr Way's views, and shall be obliged by your giving me your opinion in this emergency that I may have time to send letters to the various members of the Committee.
+I am, 
+My dear Sir, 
+Faithfully yours, 
+C Roach Smith
+
+
+Box 10, folder 498
+William Henry Smyth to TJP
+
+
+3 Cheyne Walk, Chelsea
+29th January 1849
+My dear Pettigrew,
+On coming home pretty late last evening, I found your two goodly-looking & pretty tomes on my table, & I merely start this off to announce their safe arrival, and express my hearty thanks for the same.  I have been devouring them all day, & can fancy that the shade of Harris Nicholas must look blue.  He ought to have given both his ears for a snatch of the letters you got hold of.
+Have you seen Roach Smith again since I saw you?  He seems very much in earnest about making an amalgamation of parties,  - but after what you said, I fear the moment has not yet arrived for such a consummation.  
+Hip!  Hip!  Hurrah!!! for Nelson, and health and happiness to his Biographer!  
+So ejaculates 
+Your's and truly, 
+W.H. Smyth
+
+
+Box 11, folder 504
+Edward Adolphus Seymour, 11th Duke of Somerset to TJP
+
+
+The Duke of Somerset presents his complts. to Mr Pettigrew and has to say in answer to his note that the Duke has long abstained from attending any meetings of the Royal Society from having been quite disgusted with the manner in which things were conducted there.
+Park Lane, 27th Novr. 1830
+
+
+Box 11 folder 510
+Ephraim George Squier to TJP
+
+
+Morley's Hotel 
+Wednesday Dec. 11 1857
+My Dear Sir,
+I beg that you will do me the favour to present to the British Archaeological Association, upon my behalf, the accompanying work and pamphlets of my own, upon the monuments etc. of America, I presume my larger works on the Aboriginal Monuments of the Mississippi Valley and the State of New York have been presented to the Association by the Smithsonian Institution, by which they were published.  If I am mistaken, please inform me of the circumstance, and I will take measures to have the oversight corrected.  
+I shall be happy to add my work (now in press) on the archaeology of Central America, to those which I have the honor to send herewith, as soon as it shall be issued.
+With high respect I am sir, your obd. Servt.
+E.Geo. Squier
+T.J. Pettigrew Esq.
+&c &c &c
+
+
+Box 11, folder 514
+Thomas Streatfield to TJP
+
+
+8th Sept. 1844
+Charts Edge
+My dear Sir
+In consequence of your intimation that I might give the ticket you were so good as to forward me to a friend in spite of the "not transferable" on its face, I have sent it to the Revd. Geo. Wallace, headmaster of the King's School, Canterbury.  I have been unequal to my previous exertions ever since my last visit to East Kent, on my way thither, at Mr Darrell's at Calehill, I had a violent attack of Cholera, and was forced to spare myself when under other hospitable roofs.  I continued to exert myself, however until on 9th June 1843, when I had a paralytic stroke, & since when, good spirits are almost the only sign of my former self remaining.  Whilst I live, however, I shall take an interest in antiquarian researches, and be happy if my stores can be made useful to others.  They are ample, in the medieval period of our County History.  
+My friend Lambert Larking will probably be pleased with an opportunity of referring to a letter, in the Chapter Library, from a vicar written to a Prior of Xtr Chh. of which I made an imperfect copy, upon which we tried our skill together.
+He has himself no common skill in decyphering old writing, but if a fee will obtain more competent assistance, beg him to advance it on my account.  I presume the association have secured access to the Chapter Library.  It was kindly accorded to myself by Dr Spry.
+On the Eastern side of the cloisters is a figure, commonly pointed out as Prior Chillenden.  There is a legend round it, of which sufficient remains legible to show it to be "Frater John "Schepuys(?)".  
+On the south side of the cloisters, the tale of the fox (or wolf) and the geese, is given on a succession of bosses, on the last of which, the cloister has vented its satire and I think it is worth observing, though it might escape if you were not awake to it.
+I had occasion to fall so foul of Mr Willement, that several of my friends have expressed their regret, but I must call attention to other instances of his misrepresentation, that I have not already brought forward, that will justify me.  His No. 737, which he calls a lyon salient on a throne, will be seen to be a lyon breaking out of a cage; and his Number 242, & 259, to be very incorrectly blazoned.  But my pen and my hand fail me, and it is well, as few attach the importance to heraldry that I do.  
+Respectfully,
+Though with a weary hand, 
+Thos. Steatfield
+
+
+Box 11, folder 523
+Sir Herbert Taylor to TJP
+
+
+St James's Palace April 25 1833
+Sir, 
+I beg to acknowledge the Receipt of your Note, with the enclosed Prospectus which I have submitted to the King, who was pleased to comply with your request to be permitted to Inscribe your Publication the History of Mummies to His Majesty.
+I have the honor to be, 
+Sir, 
+Your Obedient Servant, 
+H Taylor
+
+
+Box 11, folder 526
+Thomas Taylor to TJP
+
+
+My dear Sir, 
+Agreeably to my promise I send you an extract from Plato respecting the burial of the dead.  The extract is from the 12th book of his Laws, but is not an Egyptian law, but one of his own.  So that the Frenchman who quoted it as an Egyptian custom, did so in perfect conformity to the slapdash & harum-scarum manner of the sublime genius of the moderns.  
+I intended to have called on you this morning, but in coming yesterday evening from Stratford, after I left the stage, I accidentally trod on an oyster, which I suppose had been thrown away as bad, & fell in consequence of it, on my left side, & sprained my wrist & thigh, so as to oblige me to keep at home for a few days.  
+Hoping you & your family are well, I remain
+Yours very sincerely 
+Thomas Taylor
+Friday morning
+
+
+Box 11 folder 528
+Honoratus Leigh Thomas to TJP
+
+
+Dear Sir,
+A meeting of the Council is I understand summoned for Thursday next for the sole purpose of considering the propriety of recognising the Charing Cross Hospital as a school of surgery - probably a committee will be then appointed to ascertain the real state of that Institution, which I sincerely hope will prove satisfactory to you, and the other medical officers connected with the establishment.
+I remain dear sir
+Very truly yours 
+H. Leigh Thomas
+Leicester Place
+May 1834
+
+
+Box 11, folder 529
+James Thompson to TJP
+
+
+Chronicle Office, Leicester
+Nov 30, 1850
+Dear Sir,
+You will be quite welcome to the use of the engraving of the Jewry Wall.  The plan was lithographed for me in this town from a draught prepared by Mr Wickes.  I believe the stone has been altered since my copies were taken from it: therefore, if you require other for the journal, the plan will require lithographing afresh.  You would be better able to get the plan done in London than it could be executed here, and cheaper too.
+The excavations to which I refer in the paper have recently been ??tended a little, & are found [...] reveal a quantity of roman masonry, immensely thick and of almost inseparable tenacity.  
+I will forward the wood engraving by post in a day or so.  I remain, dear sir, 
+Yours respectfully,
+James Thompson
+
+
+Box 11 folder 530
+William John Thoms to TJP
+
+
+25 Holy Well St.
+Millbank - 27 Nov
+My dear Sir
+I forward herewith by desire of our friend Worsaae a copy of my translation of his Primaeval Antiquities of Denmark
+I am yours very truly
+William J Thoms
+
+
+Box 11, folder 537
+Robert Torrens to TJP
+
+
+November 4. 1824
+My dear sir,
+I return, according to your desire, the monody on the death of Lord Byron.  When you first did me the favour of communicating it, I immediately submitted it to my Editor, who deemed it too long for a newspaper; where, in all things of this kind, want of space implores the necessity of brevity.  
+I feel very much obliged to you for your kind remembrance of my desire to be initiated into masonry.  I beg you will convey my respectful duty to his Royal Highness the Duke of Sussex, and express my sense of obligation for his condescension in nominating me to his own lodge.  The address I should be wish to have prefixed is, Lieut. Col. Robert Torrens, Woolwich.
+I am 
+My dear sir
+Yours very sincerely
+Robt. Torrens
+
+
+My dear Sir
+It will give me much pleasure to attend your conversazione on Friday the 3rd of June 
+Yours very truly
+Robt. Torrens
+May 31st. 1825
+
+
+Box 11 folder 542
+Martin Farquhar Tupper to TJP
+
+
+5 New Burlington Street
+Sept 2 1845
+My dear sir,
+Gavelle and I have much pleasure in accepting your friendly invitation for Friday at ? past 6.
+In such a case as Mr Isaacson, [my Co] my editorial duties must be merely to see the MS through the press: I may not add, nor take away.  What I should propose is, that each author condense his own paper: for it is an awkward matter to shorten the noses of other people's children.  The 3 papers you have confided to me number 50 sides of MS: the quantity of type that will occupy depends upon the style of writing: I should say about 40 pages: if so, they are scarcely more than may fairly be set up verbatim.  
+All prosperities to you & yours.  If ever you want to see me about the Volume, or anything else, I will if you send me times, call on you when in your morning gown.  Our kind regards to Mrs Pettigrew & you ??? & I am, 
+Yours very truly
+Martin F. Tupper 
+T.J. Pettigrew Esq.
+It strikes me I had better look in upon you soon, to settle about editorial duties.
+
+
+Box 12 folder 553
+Richard Valpy to TJP
+
+
+My dear Mrs Pettigrew
+Permit me to assure you that I most sincerely sympathise with you on the loss of my little God-daughter.  You have the comfort to reflect that you have added an Angel to the company of the Bless in heaven.  This is a merciful visitation of which you & her dear father will make satisfying use.
+My daughter, Mrs Shuler, lost a little girl last week to the same disorder.
+With kind regards & warm wishes for you, Pettigrew, & your little family, I am, my dear friend, 
+Yours most faithfully, 
+R. Vulpy.
+March 13, '26.
+
+
+Box 12, folder 555
+Lewis Vulliamy to TJP
+
+
+Regent St
+July 1
+My dear Sir
+I am much obliged by the Prospectus of your work on that very interesting subject the History of Mummies & should be most happy to be a subscriber to it.  
+May I beg your to let my name be written at length to distinguish it from my Brother's 
+I am dear sir
+Very faithfully yours
+Lewis Vulliamy
+
+
+Box 12 folder 562
+James Wardrop to TJP
+
+
+2 Charles St
+My dear sir,
+Many thanks for the tickets.  Both my son and I will have much pleasure in attending your lectures
+Yours faithfully
+J Wardrop
+Friday
+
+
+Box 12, folder 569
+Charles Wellbeloved to TJP
+
+
+York Feb 28. 1845
+Dear Sir, 
+In consequence of a letter which I have received from Mr Smith I shall be obliged to you if you will add my name to the Requisition for calling a general meeting of the members of the Archaeological Association.  I am very sorry [...] any circumstances should have arisen rendering this step necessary.  Mr Kenwick is absent from York.  I am dear sir
+Yours faithfully
+C Wellbeloved
+
+
+York Aug 4 1852
+My dear sir
+I should have great pleasure in complying with your request if it were in my power - but I have nothing by me relating to the subject you mention - and I am too old to write any thing new - Roman roads are subjects for young and active men who can walk over a county - and carefully trace the ancient ways, now nearly obliterated by the hand of the husbandman.
+The programme - for a copy of which I am much obliged to you - promises an interesting meeting of the Association.  I should be glad to be present but that is impossible and I have deeply to regret that owing to sickness and, latterly, to the infirmities of old age I have been prevented from attending any one congress.
+I hope you received my letter respecting the future transmission of the journal
+I am 
+My dear sir
+Yours faithfully
+C Wellbeloved
+T.J. Pettigrew
+
+
+Box 13, folder 591
+John Williams to TJP
+
+
+Sir,
+I believe a paper was read at one of the archaeological meetings (I think it was at Manchester) on the war chariots of the ancient Britons.  May I ask whether the article has been published?  I should much wish to procure a copy, as the subject is one in which I take no small interest.  If you can kindly favour me with some information relative thereto you will greatly oblige.  
+Your most obedt. Servt. 
+John Williams 
+Rectory 
+Llanymawddwy
+near Mllywyd
+near Shrewsbury
+Oct. 23 1851
+T.J. Pettigrew Esq. FRS &c.
+
+
+Box 13 folder 594
+Sir Daniel Wilson to TJP
+
+
+Hall of the Society of Antiquaries 
+of Scotland
+Edinburgh, 24 George Street
+July 12th 1850
+Dear sir,
+I much regret that it is out of my power to take a part this year in your proceedings at the Manchester Congress.
+I have undertaken the duties of secretary to the Ethnological section of the Brits. Association for the Advancement of Science, which meets here on the 1st of August, and it involves already a greater occupation of time than I can well spare.  I shall be very glad if I can join you on some future occasion, to testify the hearty interest I feel in the success of the British Archaeological Association.  
+I have the honour to be 
+Dear Sir,
+Very faithfully yours
+Danl. Wilson
+T.J. Pettigrew Esquire
+&c &c &c
+
+
+Box 13, folder 597
+George Woodfall to TJP
+
+
+My Dear Sir,
+If the accompanying specimen of native copper, which belongs to a poor man, and was brought over by my son from Altenfjord, for disposal, is worth exhibiting among your valuable collection, pray, retain it.  If not I will thank you to return it by the bearer.
+I remain
+My dear sir,
+Very truly yours
+G Woodfall
+Gt. Dean's Yd
+Apr. 28, 1830
+Pettigrew, Esq.
+
+
+Box 13, folder 598
+J. Word to TJP
+
+
+Nov. 17. 1836
+Dear Sir,
+I received your note yesterday, and in reply beg to send a printed copy of the little essay on the kind of which you make such use as may be convenient.  It purports to have been printed along with the Met. Literary Journal, but such was not the case on account of a delay at the printers and there are not ten copies of it circulating - these being among friends in the North of England.  I am not surprised at the difficulty in establishing a Medical Journal, and it was from a knowledge of such difficulty that I ventured to propose the propriety of the medical profession in the various provincial towns being canvassed in the way of business, so that a valuable property might in a few weeks be made of it, when as under other circumstances, it too often happens that great costs are incurred.  I have not seen the work advertised - if you wish it & will send it, I think I could take upon my to say that I would have the prospectus in the Conser. Journal, at one third the price.  We circulate several thousands.  
+I am sorry to say I have not by me the cowardly and abject apology of the Rev. Mr Worthington.  I do not know that there one person living whom I more thoroughly despise than this man.  I consider him a mean and dastardly calumniator, and totally worthless as an individual.  His public conduct is everywhere offensive, and I noticed him figuring very discreditably the other day at the Mansion House, when he was called to order by the Lord Mayor.  His officiousness in joining the Committee of a public newspaper is extremely reprehensible, and I am not sure that both his conduct and that of another clergyman on the same committee ought not to be laid before the Bishop of the Diocese.  I have read the joint stock reply, which the Charing Cross people have made to your charges.  It is really as a composition below contempt, and I find that the refutations are chiefly supported by one another.  The testimonials of Dr this & Dr that is really too absurd - and only worthy of the invention of Patent Medicines, Rowlands' Macassar, or Warren's Blacking.  The hospital has certainly got a blow from which nothing but sound and allied management can recover it.  I met Dr Golding yesterday in Hyde Park.  He looked lonely and melancholy - had  on a "shocking bad hat" and was very ill drest.  Being near the Serpentine, I had serious fears he might be meditating self destruction, and watched him for some time, til he took the direction of the pond near Kensington Palace.  I sincerely trust his friends have heard of him.
+In haste I am dear sir
+V faithful
+J Word
+Thursday Morning 
+Private.
+
+
+Box 13, folder 599
+Francis Wrangham to TJP
+
+
+My dear sir,
+I only wait for the determination of the Cambridge Syndicate as to the facsimiles, they being the patrons of my book, and having therefore some claim to advise as to its form and embellishments - after which I shall be most happy and proud - if deemed expedient to avail myself of your intervention and Mr Harris' service.  In that case, however there will be no need of reference to the museum, which indeed only includes I believe three of my eight - the two Costonian and the Alexandrine - for I have got a half sheet precisely arranged & copied by a most skilful hand precisely as I should like the lithograph to be presented.
+My two volumes consist of a very careful reprint of Bp. Walton's learned Prolegomena to his Polyglott ??? a great deal of oriental literature, for aid in appreciating which I am to be indebted to a great later scholar, Professor Lee.  My note will be copious, and where they run beyond the decent allowance of a large margin, will ...
+
+
+Box 13, folder 601
+Thomas Wright to TJP
+
+
+Winchester, Aug 1, 1845
+My dear Pettigrew,
+I drop you a line to let you know how we are going on.  We are three at the White Hart, Waller, his friend Claxton (I think that is his name) and myself.  Waller and Claxton are drawing the paintings in the Cathedral.  The only ecclesiastic that I hear of as being here at present is Dr Dealty the senior prebend, who has power over the Cathedral, and who (Bradfield thinks) will come with us.  We have traced through the verger all sorts of people of the other side who have been at the Cathedral.  De Cauis??? (also in Parker's draught) has been drawing the paintings, so that he will be forestalled by Waller.  
+The mayor asks in a very friendly manner after you.  He appears to be perfectly zealous on our side, and the town as I understand it pretty generally with us.  Bradfield thinks that we shall have not less that fifty persons in the town and neighbourhood taking tickets.  The archives, which I looked at on Wednesday, are very poor, and they are shy of letting us look at them - but I shall get as much as I want, I have found by accident that Way has tricked the town clerk and I learn that Bruce/Buye has told them if I go in they must take care to have somebody to watch me - they are sadly afraid I shall set the town on fire.  I see the town clerk has been talked to - he is but a simple person, and I laughed him out of it.  I have selected some documents which he is to take to his office, and I am to go and work at them this morning.  
+I was at Southampton yesterday, where I found people in a much higher degree of Civilization.  Everybody seemed to strive to excell the other in pleasing me.  The mayor had had a resolution passed in the town council the day before that I should do what I liked with their archives, and, he being obliged to go to Brighton when he is [...]for his wife's health, he left special orders to pay attention to me.  The town clerk also was ill, but he sent one of his clerks to stay with me all the day, and Allenby the banker invited me to dinner.  I am going again on Saturday.  The archives there are extremely valuable and very well kept.  I should not have been able to make a paper worth a fig of a report on these at Winchester, but the Southampton ones will set me up.  The worst is, I am forced to go over them very hastily.  I found that even at Southampton the enemy had been making at attempt to forestall me.  They had no influence with the authorities to hinder me.  But there was a gentleman who had belonged to the old corporation, who was pretty well acquainted with the records, and who came to give me any assistance he could in a very friendly manner.  In the middle of talking he said, "There is a friend of mine in London, Mr Vaux, who has written to me to request I would give him any extracts I can from the Southampton records for a paper at the meeting at Winchester" I said, "of course you know that your friend Mr Vaux is on the other side".  He answered, "O yes, but I suppose you have all the same object and I will give any help I can to either."  They will not get much help out of him.  But what apes they are to try and imitate our papers, coming after us!  It shows they are taken hard up for subjects.  I hear that Way has applied to a farmer about 5 miles off who is said to have some barrows on his ground.  I have sent a joke on the subject to the Literary Gazette, but I don't know if Jerdan will put it in.
+I see that we shall have as full access to the Cathedral and every other place here as we had at Canterbury, and I don't see the least harm or hindrance that can come from the dean and chapter being on the other side.  I look for Smith, Croker, and Fairholt today.  I unfortunately forgot to bring three of four tickets I had, but I suppose Smith will have plenty.  Halliwell will be here tomorrow.  The Winchester Chronicle of last Saturday has made a very curious blunder.  In one column they have inserted our advertisement, and in the another Parker's advertisement of the Journal no. VI and of Willis' Canterbury Cathedral; but in the latter, where Parker had put an announcement of their meeting in September in large letters, the printer, I suppose thinking it was a mistake, has altered it to "this association will hold its second annual congress at Winchester in the week commencing August 4"!!  So that they have advertised our meeting!  I supposed a man may take a little boy instead of a lady with his ticket - I have stated so here, because one gentleman has his wife too ill to go, but would like to take his boy.  
+I don't know if you will read my scribbling, for I am writing before breakfast, and very hungry
+Yours every faithfully, 
+Thomas Wright
+
+
+8, Great Castle Street, Regent St.
+Wednesday Morning
+Dear Sir,
+I am much obliged by your note, and by your two articles, Archeus and Arderus.  I have in hand Apous and Arbullinot, which I am now sending to the printers.  It was my intention to call upon you yesterday morning, but I am diverted by some other ??? pressing business; but I intend to have the pleasure of seeing you one day this week.  
+I believe that John Arderus himself wrote his treatise de [...] in ano in English as well as Latin: I think the oldest MS in the Museum are the English ones - they re certainly contemporary or nearly contemporary with his time.  
+I am, dear sir, 
+Very sincerely yours, 
+Thomas Wright
+ 
+
+8, Great Castle Street, Regent St
+Monday Morning
+Dear sir, 
+I shall be much obliged to you if you will return me an answer by the bearer if the Arnaldus you have promised me be Arnaldus de Villa Nova.  If so I shall be glad to have it soon.
+I have been intending to call upon you, but have been very busy completing No. 5.  I hope they have sent you the first four numbers.  
+I am, dear sir,
+Very sincerely yours, 
+Thomas Wright
+
+
+8, Great Castle Street, Regent St
+Monday Morning
+My dear sir,
+I left my umbrella behind me yesterday evening, by forgetfulness.  As my servant is coming your way, I have told her to call for it - it is a small umbrella, deficient of handle. 
+Are you interested in Border History (Welsh) because if so, you will give me a great pleasure by accepting the inclosed pamphlet.  I wish it were more worthy offering.  
+I passed a very pleasant evening yesterday.
+I am, my dear sir,
+Very faithfully yours, 
+Thomas Wright
+
+
+24 Sydney Street, Brompton
+Wednesday Evening
+My dear Pettigrew,
+I wrote to Lord Mahon this morning, so that that matter is settled, and I feel quite a load taken off my mind.  I shall now go to work on our own archaeological matters with more alacrity than ever.  
+I had made a mistake about the Council meeting today.  I had the impression that there was none this week, till I received a note from Smith about an hour ago, in which he said he was starting to the meetg. of council.  Had I known before, I would have come.  
+I had like to have come to disturb you last night; though I don't know if you would have liked it had it been late.  Mr Guizot's mother was taken unwell yesterday - she is very old, and the trouble of the late events, with change of climate, &c have had their effect upon her.  Mr Guizot sent to me last night that Dr Holland had visited her in the morning, but that he wished much to know if there were anybody [...] to call in immediately if she were ill in the night.  I got him the name of a person here but I told him I believed my friend Mr Pettigrew to be one of the most distinguished in London, and if he would call me up, I thought I could fetch you in little more than half an hour.  I don't know whether I was doing right or not - but today Madame Guizot is better.  I have not a notion where Dr Holland lives.  
+Ever yours, 
+Thomas Wright
+
+
+8, Great Castle Street, Regent St. 
+Monday, Aug 24
+My dear sir,
+I like your articles very much, and should be much obliged by your continuing them.  I have a list given me, when I took the work, by Mr Ron, containing a few lines all through the alphabet which he had accepted of another gentleman - I think it only contains 3 or 4 names in B, and there is none before Bell.  You will always, if you please, omit the ancient (I mean roman & greek) and oriental physicians, &c... I should be glad to have up to BAR, in a day or two, if convenient.  
+No. VIII will be ready this week, with a brief preface to vol. 2.  I think this no. VIII is the best which has yet appeared, I hope you will approve of it.  I think the dictionary is informing.  
+You will be glad to see we have completed our list of vice-presidents to the Historical Society of Science, with so good a name as Lord Holland's.
+I am, my dear sir,
+Very sincerely yours, 
+Thomas Wright.  
+
+
+18, Gilbert Street, Grosvenor Square
+Tuesday morning
+My dear sir, 
+If you have an opportunity of saying a word to any members of the new council of the Royal Society to Mr Haas, whom I mentioned to you yesterday, I shall be very much obliged indeed.  He has called on me to say that he hears the appointment will probably be settled on Thursday next, and he is very anxious about it.  He only seeks the minor place of librarian, and I think has a very good chance. 
+I have read through your volume on Medical Superstitions with which I am much pleased and interested.  I should think it would be very successful.  You have brought together much very curious matter.  
+I am, my dear sir, 
+Very faithfully yours, 
+Thomas Wright
+
+
+Box 13, folder 607
+William Youatt to TJP
+
+
+May 1835
+My dear sir
+I see nothing suspicious about the cat - I have sent you the stomach & [...] that you may judge for yourself.
+I, however, should take the safest course, for I have one instance even present in my mind when the examination of the quadruped presented nothing to cause alarm, yet hydrophobia followed - I am, my dear sir, 
+Very faithfully yours, 
+W. Youatt
+The circumstances under which I have since learned that the bite was inflicted are suspicious.
+
+
+Box 13, folder 609
+G Young to TJP
+
+
+My dear Sir, 
+I am very desirous of information on the subject you propose to treat in your forthcoming work; and shall feel obliged by the insertion of my name amongst the subscribers to your History of Mummies.
+Believe me, 
+Very truly yours, 
+G Young
+31 Howland St
+18th June 1833
